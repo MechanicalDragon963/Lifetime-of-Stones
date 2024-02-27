@@ -1,0 +1,1786 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2024-02-27 22:55+0400\n"
+"PO-Revision-Date: 2024-02-27 22:57+0400\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"Language: ru_RU\n"
+
+#. [achievement_group]
+#. [campaign]: id=Lifetime_of_Stones
+#: _main.cfg:10 achievements.cfg:4
+msgid "Lifetime of Stones"
+msgstr ""
+
+#. [campaign]: id=Lifetime_of_Stones
+#: _main.cfg:11
+msgid "LoS"
+msgstr ""
+
+#. [campaign]: id=Lifetime_of_Stones
+#: _main.cfg:16
+msgid ""
+"After the Second Great War, the life of trolls changed forever. The echoes "
+"of the defeat at Durn-Turum have traveled through the centuries and reached "
+"even the little troll Grump, who was recently born in the Heat Caves. Grump "
+"has no idea what adventures the legacy of gray antiquity will lead him "
+"into. \n"
+"\n"
+msgstr ""
+
+#. [campaign]: id=Lifetime_of_Stones
+#: _main.cfg:18
+msgid "(Intermediate level, 11 scenarios)"
+msgstr ""
+
+#. [campaign]: id=Lifetime_of_Stones
+#: _main.cfg:27
+msgid "Boulder"
+msgstr ""
+
+#. [campaign]: id=Lifetime_of_Stones
+#: _main.cfg:27
+msgid "Easy"
+msgstr ""
+
+#. [campaign]: id=Lifetime_of_Stones
+#: _main.cfg:28
+msgid "Whelp"
+msgstr ""
+
+#. [campaign]: id=Lifetime_of_Stones
+#: _main.cfg:28
+msgid "Normal"
+msgstr ""
+
+#. [campaign]: id=Lifetime_of_Stones
+#: _main.cfg:29
+msgid "Hard"
+msgstr ""
+
+#. [campaign]: id=Lifetime_of_Stones
+#: _main.cfg:29
+msgid "Grunt"
+msgstr ""
+
+#. [campaign]: id=Lifetime_of_Stones
+#: _main.cfg:30
+msgid "Nightmare"
+msgstr ""
+
+#. [campaign]: id=Lifetime_of_Stones
+#: _main.cfg:30
+msgid "Warrior"
+msgstr ""
+
+#. [about]
+#: _main.cfg:33
+msgid "Lead Designer"
+msgstr ""
+
+#. [entry]
+#: _main.cfg:35
+msgid "Mechanical"
+msgstr ""
+
+#. [about]
+#: _main.cfg:39
+msgid "Assistance"
+msgstr ""
+
+#. [entry]
+#: _main.cfg:41
+msgid "dwarftough"
+msgstr ""
+
+#. [achievement]: id=LoS_S1_Upgrades
+#: achievements.cfg:9
+msgid "The ritual of growing up"
+msgstr ""
+
+#. [achievement]: id=LoS_S1_Upgrades
+#: achievements.cfg:10
+msgid "Upgrade all trolls to at least level two in <i>The Rolling Stones</i>."
+msgstr ""
+
+#. [achievement]: id=LoS_S2_Cloak
+#: achievements.cfg:15
+msgid "Not such burning Sun"
+msgstr ""
+
+#. [achievement]: id=LoS_S2_Cloak
+#: achievements.cfg:16
+msgid "Find something to shelter from the Sun in <i>The Realm of Sand</i>."
+msgstr ""
+
+#. [achievement]: id=LoS_S2_Ring
+#: achievements.cfg:21
+msgid "Fried crawlers"
+msgstr ""
+
+#. [achievement]: id=LoS_S2_Ring
+#: achievements.cfg:22
+msgid "Get the fiery power in <i>The Realm of Sand</i>."
+msgstr ""
+
+#. [achievement]: id=LoS_Firestone
+#: achievements.cfg:27
+msgid "My grandfather is Firestone!"
+msgstr ""
+
+#. [achievement]: id=LoS_Firestone
+#: achievements.cfg:28
+msgid "Turn the Troll Shaman into an avatar of fire."
+msgstr ""
+
+#. [achievement]: id=LoS_S8_Kill
+#: achievements.cfg:33
+msgid "The best defence is offence!"
+msgstr ""
+
+#. [achievement]: id=LoS_S8_Kill
+#: achievements.cfg:34
+msgid "Kill all enemy leaders in <i>The Oasis of Blood</i>."
+msgstr ""
+
+#. [achievement]: id=LoS_Son
+#: achievements.cfg:39
+msgid "Generational continuity"
+msgstr ""
+
+#. [achievement]: id=LoS_Son
+#: achievements.cfg:40
+msgid "Grump's son should become a Troll Hero from one advancement."
+msgstr ""
+
+#. [achievement]: id=LoS_Friends
+#: achievements.cfg:45
+msgid "And they lived happily ever after..."
+msgstr ""
+
+#. [achievement]: id=LoS_Friends
+#: achievements.cfg:46
+msgid "At least 1 little friend survived to the end of <i>The Great Trek</i>."
+msgstr ""
+
+#. [achievement]: id=LoS_Finish
+#: achievements.cfg:51
+msgid "Not a boulder, but the Great Stone!"
+msgstr ""
+
+#. [achievement]: id=LoS_Finish
+#: achievements.cfg:52
+msgid "Finish the campaign on Nightmare difficulty level."
+msgstr ""
+
+#. [scenario]: id=los_s1
+#: scenarios/los_s1.cfg:5
+msgid "The Rolling Stones"
+msgstr ""
+
+#. [side]
+#: scenarios/los_s1.cfg:81 scenarios/los_s1.cfg:95 scenarios/los_s10.cfg:82
+#: scenarios/los_s11.cfg:45 scenarios/los_s2.cfg:37
+msgid "Rolling Stones"
+msgstr ""
+
+#. [unit]: id=Father, type=Great Troll
+#: scenarios/los_s1.cfg:101
+msgid "Zuug"
+msgstr ""
+
+#. [side]
+#: scenarios/los_s1.cfg:117 scenarios/los_s10.cfg:130 scenarios/los_s2.cfg:45
+msgid "Monsters"
+msgstr ""
+
+#. [message]: speaker=Father
+#: scenarios/los_s1.cfg:201
+msgid ""
+"It's time, little ones. The stones say the trolls must find a new home. The "
+"stones will show the way. Zuug will lead you."
+msgstr ""
+
+#. [message]: speaker=Father
+#: scenarios/los_s1.cfg:229
+msgid ""
+"As Zuug's son, Grump must be first among the cubs. Be brave and stand up for "
+"your kin."
+msgstr ""
+
+#. [message]: speaker=Grumps_Son
+#. [message]: speaker=Son
+#: scenarios/los_s1.cfg:233 scenarios/los_s11.cfg:105
+msgid "Yes, father."
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/los_s1.cfg:258
+msgid "Follow Zuug to the exit of the cave"
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/los_s1.cfg:262
+msgid "Bonus Objective:"
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/los_s1.cfg:263
+msgid "Level up Grump"
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/los_s1.cfg:273
+msgid "Death of Zuug"
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/los_s1.cfg:277 scenarios/los_s10.cfg:495 scenarios/los_s2.cfg:171
+#: scenarios/los_s2.cfg:249 scenarios/los_s2.cfg:376 scenarios/los_s2.cfg:547
+#: scenarios/los_s4.cfg:311 scenarios/los_s6.cfg:260 scenarios/los_s8.cfg:438
+#: scenarios/los_s9.cfg:246
+msgid "Death of Grump"
+msgstr ""
+
+#. [note]
+#: scenarios/los_s1.cfg:282
+msgid ""
+"Zuug can break some cave walls with his hammer. Allow him to stand on a hex "
+"with a rubble to break the deadlock."
+msgstr ""
+
+#. [message]: speaker=Father
+#: scenarios/los_s1.cfg:320
+msgid "The stones say the trolls should head east."
+msgstr ""
+
+#. [message]: speaker=Father
+#: scenarios/los_s1.cfg:380
+msgid "The stones say the exit is near. The trolls should head north."
+msgstr ""
+
+#. [message]: speaker=Father
+#: scenarios/los_s1.cfg:424
+msgid ""
+"There is the exit. Zuug did not realize breaking through the cave walls "
+"would be so hard. The stones say Zuug's time is running out. The stones are "
+"calling Zuug."
+msgstr ""
+
+#. [message]: speaker=Son
+#: scenarios/los_s1.cfg:428
+msgid ""
+"What are father saying? Father so big and strong. Father just need to rest."
+msgstr ""
+
+#. [message]: speaker=Father
+#: scenarios/los_s1.cfg:432
+msgid ""
+"Listen. Grump gonna lead the tribe. Finish what father started. Find the "
+"trolls a new home. Be solid as a rock. Beware of cunning elves and ugly "
+"dwarves. Do not forget the legend father told. Pass it on to the young "
+"trolls. Learn to listen to the stones. Never go back."
+msgstr ""
+
+#. [message]: speaker=Son
+#: scenarios/los_s1.cfg:436
+msgid "Father, no, do not leave trolls..."
+msgstr ""
+
+#. [message]: speaker=Son
+#: scenarios/los_s1.cfg:458
+msgid ""
+"Grump can not believe it. Not so long ago, father seemed so strong and "
+"healthy... Grump will do what father told. What these stones say... Grump "
+"guess they say the trolls should head north. Follow Grump."
+msgstr ""
+
+#. [message]: speaker=Father
+#: scenarios/los_s1.cfg:549
+msgid ""
+"Grump is fighting good. Seems that he has raised a worthy troll. With Grump "
+"the Rolling Stones will be fine."
+msgstr ""
+
+#. [scenario]: id=los_s10
+#: scenarios/los_s10.cfg:5
+msgid "The Great Trek"
+msgstr ""
+
+#. [side]
+#: scenarios/los_s10.cfg:93 scenarios/los_s2.cfg:61 scenarios/los_s3.cfg:55
+#: scenarios/los_s5.cfg:56 scenarios/los_s7.cfg:49
+msgid "Dunefolk"
+msgstr ""
+
+#. [message]
+#: scenarios/los_s10.cfg:477
+msgid ""
+"Our realm has been invaded by infidels... Even now I can see the smoke from "
+"our capital on the horizon..... O Great Troll Sultan, why do you lead us not "
+"into battle but into the desert?"
+msgstr ""
+
+#. [message]: speaker=Son
+#: scenarios/los_s10.cfg:481
+msgid ""
+"Though Shaitan has captured our realm, do not despair, little friends. The "
+"Almighty showed Grump the way. Grump will lead everyone to a new better home "
+"where Shaitan will not find us. Follow Grump!"
+msgstr ""
+
+#. [message]
+#: scenarios/los_s10.cfg:485
+msgid ""
+"If so, lead us to a new heaven, O Great Troll Sultan, blessed by the skies!"
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/los_s10.cfg:491
+msgid "Move Grump to the east border of the map"
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/los_s10.cfg:499 scenarios/los_s9.cfg:250
+msgid "Death of Little Abdul"
+msgstr ""
+
+#. [note]
+#: scenarios/los_s10.cfg:503
+msgid ""
+"Your allies from the dunefolk will try to follow the trolls and stick as a "
+"group."
+msgstr ""
+
+#. [note]
+#: scenarios/los_s10.cfg:507
+msgid ""
+"You don't have to worry too much about the survival of your allies. It is "
+"better to gather the trolls into one group and move forward."
+msgstr ""
+
+#. [message]: speaker=Son
+#: scenarios/los_s10.cfg:526
+msgid ""
+"The Almighty has guided us to the mountains. That's good. The voice of the "
+"Almighty is clearer through the rocks."
+msgstr ""
+
+#. [message]
+#: scenarios/los_s10.cfg:530
+msgid ""
+"Indeed, the ways of the Almighty are inscrutable, for these mountains are "
+"known only for impassable rubble and terrible monsters. "
+msgstr ""
+
+#. [message]: speaker=Son
+#: scenarios/los_s10.cfg:534
+msgid ""
+"Sultan Abdul said that the Almighty does not send trials greater than we can "
+"bear. Do not be afraid, little friends. The trolls will clear your path."
+msgstr ""
+
+#. [message]: speaker=Son
+#: scenarios/los_s10.cfg:555
+msgid ""
+"Aimighty says, our home is in these caves. Praise the Almighty! Grump really "
+"missed the caves."
+msgstr ""
+
+#. [message]: speaker=Son
+#: scenarios/los_s10.cfg:589
+msgid ""
+"Almighty... The voice of the Almighty fades in the caves. No wonder, He "
+"lives in the sky. But the stones say that the trolls are near."
+msgstr ""
+
+#. [message]: race=troll
+#: scenarios/los_s10.cfg:616
+msgid "Grump, our path is hard. Crawlers are killing our little friends."
+msgstr ""
+
+#. [message]: speaker=Son
+#: scenarios/los_s10.cfg:620
+msgid ""
+"There's no need to be afraid of crawlers, fighting them makes us grow. Grump "
+"is sure the little friends will grow too."
+msgstr ""
+
+#. [message]: race=troll
+#: scenarios/los_s10.cfg:644
+msgid "Crawlers killed all the little friends..."
+msgstr ""
+
+#. [message]: speaker=Son
+#: scenarios/los_s10.cfg:648
+msgid ""
+"What happened? I know crawlers are so weak. Even a troll whelp could crush "
+"dozens of them."
+msgstr ""
+
+#. [message]: race=troll
+#: scenarios/los_s10.cfg:654
+msgid "It seems the little friends were much weaker than the trolls. "
+msgstr ""
+
+#. [message]: speaker=Son
+#: scenarios/los_s10.cfg:658
+msgid ""
+"Uh-huh. At least they already found their home in the heaven. Now we just "
+"need to find a home for the trolls. Not in the heaven, but in the caves."
+msgstr ""
+
+#. [message]: speaker=Son
+#: scenarios/los_s10.cfg:673
+msgid ""
+"The little friends grow up fighting crawlers, just like trolls. At the end "
+"of the journey, they all will become mighty warriors!"
+msgstr ""
+
+#. [scenario]: id=los_epilogue
+#: scenarios/los_s11.cfg:5
+msgid "Epilogue"
+msgstr ""
+
+#. [part]
+#: scenarios/los_s11.cfg:20
+msgid "Many years later..."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/los_s11.cfg:70
+msgid ""
+"Like his father years ago, Grump told the whelps the legend of the Rolling "
+"Stones tribe, beginning with Durn-Turum and and ending with the events of "
+"his life."
+msgstr ""
+
+#. [message]: speaker=Son
+#: scenarios/los_s11.cfg:74
+msgid ""
+"...That's how the Rolling Stones arrived in this cave. It was good here, but "
+"Grump feels the time has come. The Rolling Stones must find a new home, lest "
+"Shaitan find the Rolling Stones. Grump will lead you out."
+msgstr ""
+
+#. [message]: speaker=Son
+#: scenarios/los_s11.cfg:101
+msgid ""
+"As Grump's eldest son, Abdul must be first among the trolls. Be brave and "
+"protect your kin."
+msgstr ""
+
+#. [scenario]: id=los_s2
+#: scenarios/los_s2.cfg:5
+msgid "The Realm of Sand"
+msgstr ""
+
+#. [message]
+#: scenarios/los_s2.cfg:157
+msgid ""
+"Grump, the trolls been walking on sand for days. It is hot and there is "
+"nothing to eat. There is nothing to drink. Are Grump sure the rocks pointed "
+"this way?"
+msgstr ""
+
+#. [message]: speaker=Son
+#: scenarios/los_s2.cfg:161
+msgid ""
+"Do not despair. Father said the trolls should be solid as a rock, remember? "
+"The stones guided the trolls here. Grump sure, the sand will run out soon."
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/los_s2.cfg:167
+msgid "Move north"
+msgstr ""
+
+#. [note]
+#: scenarios/los_s2.cfg:177
+msgid ""
+"Explore the area along the way, but don't spread out too much to avoid "
+"becoming easy prey for desert monsters."
+msgstr ""
+
+#. [message]: speaker=Son
+#: scenarios/los_s2.cfg:195
+msgid "Look, a crawler! Now the trolls going to have a meal."
+msgstr ""
+
+#. [message]: speaker=Son
+#: scenarios/los_s2.cfg:211
+msgid ""
+"The crawlers here are stale and not tasty at all, but it is better than "
+"nothing. Now the trolls need to find something to drink them with."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/los_s2.cfg:235
+msgid "Look, it is water!"
+msgstr ""
+
+#. [message]: speaker=Son
+#: scenarios/los_s2.cfg:239
+msgid ""
+"See, the stones were right, it is not so bad in the sand. Come on, let's go "
+"for a swim!"
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/los_s2.cfg:245
+msgid "Move Grump to the water"
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/los_s2.cfg:275
+msgid "Grump did not realize it could be so good in the water!"
+msgstr ""
+
+#. [unit]: type=Jinn, id=Jinn
+#: scenarios/los_s2.cfg:314
+msgid "Sibjan"
+msgstr ""
+
+#. [message]: speaker=Jinn
+#: scenarios/los_s2.cfg:357
+msgid ""
+"Foolish creatures, how easily you fell into my trap! The desert creatures "
+"will ravage your bodies, and I will devour your souls!"
+msgstr ""
+
+#. [message]
+#: scenarios/los_s2.cfg:362
+msgid "The trolls are trapped! Grump, what do the trolls do?!"
+msgstr ""
+
+#. [message]: speaker=Son
+#: scenarios/los_s2.cfg:366
+msgid "Let's give that brat a good beating! He will know how to trick trolls!"
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/los_s2.cfg:372 scenarios/los_s2.cfg:543
+msgid "Defeat the Jinn"
+msgstr ""
+
+#. [note]
+#: scenarios/los_s2.cfg:382
+msgid ""
+"Scuttler scorpions will be difficult to deal with in open sand. It is better "
+"to take up defenses on the dunes."
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: scenarios/los_s2.cfg:426
+msgid "Those nasty crawlers do not want to squash! $second_unit.name worried."
+msgstr ""
+
+#. [message]: speaker=Sultan
+#: scenarios/los_s2.cfg:485
+msgid ""
+"Sha, the stars were right! Something bad is happening on this road. I'm "
+"destined for battle."
+msgstr ""
+
+#. [message]: speaker=Captain_Omar
+#: scenarios/los_s2.cfg:489
+msgid ""
+"It seems one of the escaped jinns has gone on a rampage, O Great Sultan."
+msgstr ""
+
+#. [message]: speaker=Sultan
+#: scenarios/los_s2.cfg:493
+msgid "I see. Aren't my subjects in the trap of this shaitan?"
+msgstr ""
+
+#. [message]: speaker=Captain_Omar
+#: scenarios/los_s2.cfg:498
+msgid ""
+"Fortunately not, O Great Sultan. Some strange creatures are fighting him."
+msgstr ""
+
+#. [message]: speaker=Sultan
+#: scenarios/los_s2.cfg:502
+msgid "Thank the Almighty, I have enough servants at hand to help them."
+msgstr ""
+
+#. [message]: speaker=Captain_Omar
+#: scenarios/los_s2.cfg:507
+msgid ""
+"Forgive my impertinence, O Great Sultan, but wouldn't it be better to let "
+"the monsters destroy each other and save the lives of our warriors?"
+msgstr ""
+
+#. [message]: speaker=Sultan
+#: scenarios/los_s2.cfg:511
+msgid ""
+"The Stars are guiding me. I command you to help these creatures destroy the "
+"jinn!"
+msgstr ""
+
+#. [message]: speaker=Captain_Omar
+#: scenarios/los_s2.cfg:515
+msgid "Truly, you are the kindest of us all, Great Sultan. Your will be done."
+msgstr ""
+
+#. [message]: speaker=Jinn
+#: scenarios/los_s2.cfg:519
+msgid ""
+"Sultan Abdul! Did you come to see how your wishes changed the desert, ha-ha-"
+"ha!"
+msgstr ""
+
+#. [message]: speaker=Son
+#: scenarios/los_s2.cfg:523
+msgid ""
+"Tiny creatures run here with weapons. Grump hopes they will help the trolls."
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/los_s2.cfg:551 scenarios/los_s4.cfg:315
+msgid "Death of Sultan"
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/los_s2.cfg:555 scenarios/los_s8.cfg:446
+msgid "Death of Omar"
+msgstr ""
+
+#. [message]: speaker=Jinn
+#: scenarios/los_s2.cfg:575
+msgid ""
+"If it's not me, my brothers will finish what you started, Sultan. Your "
+"wishes will destroy you, mark my words!"
+msgstr ""
+
+#. [message]
+#: scenarios/los_s2.cfg:591
+msgid "The jinn is defeated, O Great Sultan."
+msgstr ""
+
+#. [message]: speaker=Sultan
+#: scenarios/los_s2.cfg:595
+msgid ""
+"Your people never cease to delight me, Omar. Well done. Now I wish to meet "
+"the strangers we've rescued."
+msgstr ""
+
+#. [message]: speaker=Sultan
+#: scenarios/los_s2.cfg:603
+msgid ""
+"Truly, the Almighty never ceases to amaze. I have seen many things in my "
+"life, but this is the first time I have seen such creatures. Who are you? "
+"How did you come to my realm?"
+msgstr ""
+
+#. [message]: speaker=Son
+#: scenarios/los_s2.cfg:607
+msgid ""
+"We are the trolls of the Rolling Stones tribe. We're looking for a new home. "
+"The stones led us here. And who are you?"
+msgstr ""
+
+#. [message]: speaker=Sultan
+#: scenarios/los_s2.cfg:611
+msgid ""
+"I am Sultan Abdul, lord of this desert. Everything you see belongs to me. If "
+"a friend enters my realm, he will have no need of anything. If an enemy "
+"comes here, he will find his death, just like this jinn. Are you trolls "
+"friends or enemies?"
+msgstr ""
+
+#. [message]: speaker=Son
+#: scenarios/los_s2.cfg:615
+msgid ""
+"The trolls need food, water, and a home. The trolls want to be Sultan's "
+"friends."
+msgstr ""
+
+#. [message]: speaker=Sultan
+#: scenarios/los_s2.cfg:619
+msgid ""
+"Truly, there is no equal to my stargazers, for their predictions come true "
+"exactly! For besides the battle, I was also foretold an amazing encounter. "
+"The Stars tied the threads of our destinies together, trolls. We will be "
+"friends. Follow me - I will take you to my palace, where I will welcome you "
+"as friends with all the Sultan's hospitality!"
+msgstr ""
+
+#. [message]: speaker=Jinn
+#: scenarios/los_s2.cfg:643
+msgid ""
+"Stupid Sultan! You yourself wished your desert to be full of game, so why do "
+"you attack the animals?"
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/los_s2.cfg:659
+msgid ""
+"There is no food or water in this abandoned house. Just a piece of cloth. "
+"Cover my head from the sun with it."
+msgstr ""
+
+#. [object]
+#: scenarios/los_s2.cfg:663
+msgid "Cloak of Desert Wanderer"
+msgstr ""
+
+#. [object]
+#: scenarios/los_s2.cfg:665
+msgid ""
+"This cloak protects from the sun and allows the wearer to move faster (+1 "
+"movement)."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/los_s2.cfg:698
+msgid ""
+"What an unusual crawler, wanted to hide in the sand! $unit.name wonder what "
+"it tastes like?"
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: scenarios/los_s2.cfg:716 scenarios/los_s2.cfg:760
+msgid ""
+"This is a very tasty crawler. And it had some shiny thing on its nose. "
+"$second_unit.name gonna take the shiny thing for himself. Ouch, it burns."
+msgstr ""
+
+#. [object]
+#: scenarios/los_s2.cfg:720 scenarios/los_s2.cfg:764
+msgid "The Ring of Ifrit"
+msgstr ""
+
+#. [object]
+#: scenarios/los_s2.cfg:722 scenarios/los_s2.cfg:766
+msgid ""
+"An ever-hot ring accidentally lost by a mystical creature. Fortunately, the "
+"troll's skin is thick enough to hold it. (Changes the damage type of all "
+"attacks to fire)."
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: scenarios/los_s2.cfg:782
+msgid ""
+"This hot shiny thing has tremendous power. With its help, $second_unit.name "
+"can approach the fire spirits and become an avatar!"
+msgstr ""
+
+#. [scenario]: id=los_s3
+#: scenarios/los_s3.cfg:5
+msgid "A New Home"
+msgstr ""
+
+#. [side]
+#: scenarios/los_s3.cfg:44 scenarios/los_s5.cfg:45 scenarios/los_s7.cfg:38
+#: scenarios/los_s9.cfg:60
+msgid "Trolls"
+msgstr ""
+
+#. [message]: speaker=Sultan
+#: scenarios/los_s3.cfg:128
+msgid ""
+"My humble cellar doesn't compare to a cave, but it's the best I can offer "
+"for creatures like you. Do you like it?"
+msgstr ""
+
+#. [message]: speaker=Son
+#: scenarios/los_s3.cfg:132
+msgid "It is not a bad place."
+msgstr ""
+
+#. [message]: speaker=Sultan
+#: scenarios/los_s3.cfg:136
+msgid ""
+"Sha, great! Make yourselves comfortable. My commanding officer will visit "
+"you shortly. He will teach you how to fight in the desert."
+msgstr ""
+
+#. [message]: speaker=Son
+#: scenarios/los_s3.cfg:140
+msgid "The trolls are grateful to the Sultan for everything."
+msgstr ""
+
+#. [message]
+#: scenarios/los_s3.cfg:171
+msgid ""
+"So this is the home the stones directed us to? It is too light, too dry, and "
+"no mushrooms."
+msgstr ""
+
+#. [message]: speaker=Son
+#: scenarios/los_s3.cfg:175
+msgid ""
+"Chin up! The Sultan spoke the truth - the trolls do not need anything "
+"anymore. The Sultan fed and gave to drink us. He is our friend. Better to be "
+"with the Sultan than in the desert."
+msgstr ""
+
+#. [message]
+#: scenarios/los_s3.cfg:180
+msgid "You are right, but what do the stones say?"
+msgstr ""
+
+#. [message]: speaker=Son
+#: scenarios/los_s3.cfg:191
+msgid ""
+"These stones do not speak. They are dead. Hmm. The trolls need to get some "
+"live rocks in here."
+msgstr ""
+
+#. [message]: speaker=Captain_Omar
+#: scenarios/los_s3.cfg:206
+msgid "Greetings, trolls! Did you enjoy the Sultan's hospitality?"
+msgstr ""
+
+#. [message]: speaker=Son
+#: scenarios/los_s3.cfg:210
+msgid "Yes."
+msgstr ""
+
+#. [message]: speaker=Captain_Omar
+#: scenarios/los_s3.cfg:214
+msgid ""
+"Our Sultan is the kindest and fairest of rulers, Almighty bless him. But he "
+"has a lot of jealous enemies. So for every day to be carefree like this, we "
+"must know how to fight. You're not comfortable fighting in the sand, are "
+"you? I'll teach you how to move properly. Form a line!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/los_s3.cfg:219
+msgid ""
+"From then on, every day the captain trained the trolls from sunrise to "
+"sunset. The trolls didn't mind - they had no business in the Sultan's realm, "
+"and the rest of the time they ate their fill and rested in their lair. The "
+"trolls understood that this happy life had to be protected, and practiced "
+"hard. After a while they learned to fight on the sand almost as skillfully "
+"as the dunefolk.\n"
+"\n"
+"Now your units move across the sand as easily as they do across the plain!"
+msgstr ""
+
+#. [scenario]: id=los_s4
+#: scenarios/los_s4.cfg:5
+msgid "Deceitful Wishes"
+msgstr ""
+
+#. [side]
+#: scenarios/los_s4.cfg:53 scenarios/los_s4.cfg:71 scenarios/los_s6.cfg:67
+#: scenarios/los_s6.cfg:87 scenarios/los_s8.cfg:65 scenarios/los_s8.cfg:86
+#: utils/characters.cfg:33
+msgid "Sultan Abdul"
+msgstr ""
+
+#. [side]: type=Jinn, id=Fire_Jhin
+#: scenarios/los_s4.cfg:97
+msgid "Sabbar"
+msgstr ""
+
+#. [side]: type=Jinn, id=Fire_Jhin
+#. [side]: type=Jinn, id=Undead_Jhin
+#: scenarios/los_s4.cfg:104 scenarios/los_s4.cfg:130
+msgid "Jinns"
+msgstr ""
+
+#. [side]: type=Jinn, id=Undead_Jhin
+#: scenarios/los_s4.cfg:123
+msgid "Gaffaf"
+msgstr ""
+
+#. [message]: speaker=Sultan
+#: scenarios/los_s4.cfg:214
+msgid ""
+"Sha, take a look at these ruins! This was once a thriving city. Cursed jinns "
+"destroyed it with sandstorms and flooded it with hideous beasts!"
+msgstr ""
+
+#. [message]: speaker=Fire_Jhin
+#: scenarios/los_s4.cfg:218
+msgid ""
+"You foolish Sultan! You yourself wished there were no rebellious cities left "
+"in your realm."
+msgstr ""
+
+#. [message]: speaker=Undead_Jhin
+#: scenarios/los_s4.cfg:257
+msgid ""
+"Despicable Sultan! You yourself wished your subjects to serve you forever."
+msgstr ""
+
+#. [message]: speaker=Son
+#: scenarios/los_s4.cfg:297
+msgid "Such nasty creatures. What are they talking about?"
+msgstr ""
+
+#. [message]: speaker=Sultan
+#: scenarios/los_s4.cfg:301
+msgid ""
+"Sha! Shaitan speaks from their mouths, why listen to these speeches? Let's "
+"defeat the demons in the name of the Almighty!"
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/los_s4.cfg:307
+msgid "Defeat the Jinns"
+msgstr ""
+
+#. [note]
+#: scenarios/los_s4.cfg:321
+msgid ""
+"Trolls will not be easy to deal with mud monsters. Try to leave free "
+"villages for the Sultan so he can recruit more units."
+msgstr ""
+
+#. [message]: speaker=Fire_Jhin
+#: scenarios/los_s4.cfg:335
+msgid "Damn you, sneaky Sultan, let sand consume you!"
+msgstr ""
+
+#. [message]: speaker=Sultan
+#: scenarios/los_s4.cfg:340
+msgid ""
+"A curse from the mouth of a dying jinn is like an insect under my boot. Be "
+"gone!"
+msgstr ""
+
+#. [message]: speaker=Undead_Jhin
+#: scenarios/los_s4.cfg:364
+msgid ""
+"You wanted to rule forever, you lying Sultan, so why do you run from "
+"immortality?"
+msgstr ""
+
+#. [message]: speaker=Sultan
+#: scenarios/los_s4.cfg:369
+msgid "Be gone!"
+msgstr ""
+
+#. [message]: speaker=Son
+#: scenarios/los_s4.cfg:389
+msgid ""
+"Finally, we won. Fighting jinns is not easy. Grump is worried that many "
+"trolls might die."
+msgstr ""
+
+#. [message]: speaker=Sultan
+#: scenarios/los_s4.cfg:393
+msgid ""
+"I understand you, for my heart shrinks with pain when my brave warriors die. "
+"But it is a necessary price to pay for our prosperity. We must be willing to "
+"sacrifice ourselves to prevent villains like these jinns from turning our "
+"home into ruins."
+msgstr ""
+
+#. [message]: speaker=Son
+#: scenarios/los_s4.cfg:397
+msgid ""
+"If the jinn destroy the Sultan's palace, the trolls will lose their home "
+"again. That's not good. The Sultan is right. The big trolls must fight well "
+"for the tribe to live peacefully."
+msgstr ""
+
+#. [message]: speaker=Sultan
+#: scenarios/los_s4.cfg:401
+msgid ""
+"Sha! Wise words. I know how to care not only for the living trolls, but also "
+"for the fallen. We'll talk about it at the palace. First of all, you all "
+"deserve a good rest."
+msgstr ""
+
+#. [scenario]: id=los_s5
+#: scenarios/los_s5.cfg:5
+msgid "The New Faith"
+msgstr ""
+
+#. [message]: speaker=Sultan
+#: scenarios/los_s5.cfg:131
+msgid ""
+"It was a glorious feast, wasn't it, friends... Sha, what's that pile of "
+"rocks in the middle of the cellar?"
+msgstr ""
+
+#. [message]: speaker=Son
+#: scenarios/los_s5.cfg:135
+msgid ""
+"The trolls brought living stones and made a monument to honor their fallen "
+"brothers."
+msgstr ""
+
+#. [message]: speaker=Sultan
+#: scenarios/los_s5.cfg:139
+msgid "Sha! How does it help your fallen brothers?"
+msgstr ""
+
+#. [message]: speaker=Son
+#: scenarios/los_s5.cfg:143
+msgid ""
+"The fallen trolls are going back to the stone. My father said trolls can "
+"talk to them through the boulders."
+msgstr ""
+
+#. [message]: speaker=Sultan
+#: scenarios/los_s5.cfg:147
+msgid "O Almighty! What beliefs! So what, you can talk to them?"
+msgstr ""
+
+#. [message]: speaker=Son
+#: scenarios/los_s5.cfg:151
+msgid "Not so much. Fallen trolls don not like to speak."
+msgstr ""
+
+#. [message]: speaker=Sultan
+#: scenarios/los_s5.cfg:155
+msgid "And are they happy in stone?"
+msgstr ""
+
+#. [message]: speaker=Son
+#: scenarios/los_s5.cfg:159
+msgid "Grump does not know."
+msgstr ""
+
+#. [message]: speaker=Sultan
+#: scenarios/los_s5.cfg:163
+msgid ""
+"Sha! My warriors go to heaven after death, where they have plenty of food, "
+"water and entertainment, where they live happily until the end of times."
+msgstr ""
+
+#. [message]: speaker=Son
+#: scenarios/los_s5.cfg:167
+msgid "Grump would like the same for fallen trolls."
+msgstr ""
+
+#. [message]: speaker=Sultan
+#: scenarios/los_s5.cfg:171
+msgid ""
+"It's easily arranged. All that is needed is to accept the true faith, our "
+"Almighty."
+msgstr ""
+
+#. [message]: speaker=Son
+#: scenarios/los_s5.cfg:175
+msgid "The Sultan often mentions the Almighty. Who is he?"
+msgstr ""
+
+#. [message]: speaker=Sultan
+#: scenarios/los_s5.cfg:179
+msgid ""
+"He is the creator of the world, all-powerful and merciful. All that exists "
+"was created by Him. He judges supremely, rewards the deserving and punishes "
+"the apostates harshly."
+msgstr ""
+
+#. [message]: speaker=Son
+#: scenarios/los_s5.cfg:183
+msgid ""
+"So the Almighty created ugly dwarves and cunning elves? And evil jinns? Why?"
+msgstr ""
+
+#. [message]: speaker=Sultan
+#: scenarios/los_s5.cfg:187
+msgid ""
+"O my inquisitive friend, neither dwarves, elves, nor jinns were evil at the "
+"moment of creation. Shaitan made them so."
+msgstr ""
+
+#. [message]: speaker=Son
+#: scenarios/los_s5.cfg:191
+msgid "Who's Shaitan?."
+msgstr ""
+
+#. [message]: speaker=Sultan
+#: scenarios/los_s5.cfg:195
+msgid ""
+"Shaitan, may his name be thrice cursed, is the main enemy of the Almighty. "
+"He perverts his creations and makes them do terrible things."
+msgstr ""
+
+#. [message]: speaker=Son
+#: scenarios/los_s5.cfg:199
+msgid ""
+"Grump seems to know Shaitan. He lives in Durn-Turum. He spits fire and eats "
+"trolls alive. Because of him, the Rolling Stones are always looking for a "
+"new home."
+msgstr ""
+
+#. [message]: speaker=Sultan
+#: scenarios/los_s5.cfg:203
+msgid ""
+"Sha! Then you are fortunate to have come to me, for in my realm the Shaitan "
+"is fought like nowhere else."
+msgstr ""
+
+#. [message]: speaker=Son
+#: scenarios/los_s5.cfg:207
+msgid ""
+"But his jinn were already appearing in the Sultan's realm. What if the "
+"Shaitan himself comes here? If he finds the trolls?"
+msgstr ""
+
+#. [message]: speaker=Sultan
+#: scenarios/los_s5.cfg:211
+msgid ""
+"If you accept the true faith, you have nothing to fear. The Almighty not "
+"only guides the fallen to heaven but also protects the living from the wiles "
+"of Shaitan. It is only by His will that I have established a flourishing "
+"realm in the middle of a wasteland."
+msgstr ""
+
+#. [message]: speaker=Son
+#: scenarios/los_s5.cfg:215
+msgid ""
+"Hmmm. Grump thinks it would be good for the trolls to embrace the true "
+"faith. But Grump does not want to reject the stones."
+msgstr ""
+
+#. [message]: speaker=Sultan
+#: scenarios/los_s5.cfg:219
+msgid ""
+"Sha! There is no contradiction here, since the stones were created by the "
+"Almighty. You have already honored his part, now you will honor the whole."
+msgstr ""
+
+#. [message]: speaker=Son
+#: scenarios/los_s5.cfg:223
+msgid "Then the trolls agree."
+msgstr ""
+
+#. [message]: speaker=Sultan
+#: scenarios/los_s5.cfg:227
+msgid "Wonderful! In that case, follow me and I'll take you to my temple."
+msgstr ""
+
+#. [scenario]: id=los_s6
+#: scenarios/los_s6.cfg:5
+msgid "Infidels"
+msgstr ""
+
+#. [side]: type=Dune Blademaster, id=Sultan_Enemy
+#. [side]: type=Orcish Nightblade, id=Orc_Enemy
+#: scenarios/los_s6.cfg:121 scenarios/los_s6.cfg:125 scenarios/los_s6.cfg:184
+msgid "Wazir"
+msgstr ""
+
+#. [side]: type=Orcish Nightblade, id=Orc_Enemy
+#: scenarios/los_s6.cfg:180
+msgid "Scorpius"
+msgstr ""
+
+#. [message]: speaker=Sultan_Enemy
+#: scenarios/los_s6.cfg:226
+msgid ""
+"Invade my land?! Scoundrel, I will burn you and your wretched army alive for "
+"this!"
+msgstr ""
+
+#. [message]: speaker=Son
+#: scenarios/los_s6.cfg:230
+msgid "The trolls thought the Sultan ruled over all the desert humans."
+msgstr ""
+
+#. [message]: speaker=Sultan
+#: scenarios/los_s6.cfg:234
+msgid ""
+"Sha! That's right, my friend. But those in whom faith is weakened have "
+"fallen under the influence of Shaitan. We will bring them back to the right "
+"path."
+msgstr ""
+
+#. [message]: speaker=Son
+#: scenarios/los_s6.cfg:238
+msgid "The trolls understand. What is the Sultan's plan?"
+msgstr ""
+
+#. [message]: speaker=Sultan
+#: scenarios/los_s6.cfg:242
+msgid ""
+"The rascal Wazir has hired a band of stinking orcs to hit us in the rear. "
+"Hold them off until my cavalry has defeated Wazir. When his citadel falls, "
+"we will join forces and together we will crush the orcs in the name of the "
+"Almighty!"
+msgstr ""
+
+#. [message]: speaker=Alchemist
+#: scenarios/los_s6.cfg:246
+msgid ""
+"The arrogant Abdul thinks he can attack one ruler after another. Take my "
+"best poison, orcs. Let your daggers end the era of his treacherous invasions!"
+msgstr ""
+
+#. [message]: speaker=Orc_Enemy
+#: scenarios/los_s6.cfg:250
+msgid "Scorpius knows his business. Soon you will win your battle."
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/los_s6.cfg:256
+msgid "Defeat the Wazir and Scorpius"
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/los_s6.cfg:264 scenarios/los_s8.cfg:442
+msgid "Death of Sultan Abdul"
+msgstr ""
+
+#. [note]
+#: scenarios/los_s6.cfg:270
+msgid ""
+"Take up the defenses and hold off the orcs until the Sultan's troops deal "
+"with the Wazir. After that, launch a counter-attack."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/los_s6.cfg:285
+msgid ""
+"Shaitan! Your lust for power has blinded you, Abdul. Mark my word, within a "
+"year you will have your throat slit!"
+msgstr ""
+
+#. [message]: speaker=Sultan
+#: scenarios/los_s6.cfg:290
+msgid "Sha! You're pathetic, Wazir. Go to hell!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/los_s6.cfg:302
+msgid "Damn it! Abdul's monsters... were... stronger... than ours..."
+msgstr ""
+
+#. [message]: speaker=Son
+#: scenarios/los_s6.cfg:307
+msgid "Ha! No one compares to trolls!"
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: scenarios/los_s6.cfg:324
+msgid ""
+"The cowardly henchmen of the Wazir are fleeing in terror, O Great Sultan! "
+"What are you ordering us to do?"
+msgstr ""
+
+#. [message]: speaker=Sultan
+#: scenarios/los_s6.cfg:329
+msgid "Search his castle and turn on the orcs immediately!"
+msgstr ""
+
+#. [floating_text]
+#: scenarios/los_s6.cfg:334
+msgid "+124 gold!"
+msgstr ""
+
+#. [message]: speaker=Orc_Enemy
+#: scenarios/los_s6.cfg:369
+msgid ""
+"The client is dead, but Scorpius is no ordinary mercenary. Scorpius always "
+"finishes the job."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/los_s6.cfg:382
+msgid "Scorpius was hired by the the wrong sultan..."
+msgstr ""
+
+#. [message]: speaker=Son
+#: scenarios/los_s6.cfg:392
+msgid ""
+"The infidels are defeated! Will there be peace in the Sultan's realm now?"
+msgstr ""
+
+#. [message]: speaker=Sultan
+#: scenarios/los_s6.cfg:396
+msgid ""
+"I pray for the day when I will have no envious enemies left, but it has not "
+"yet come. But let us return to the palace. There's a special bounty for you "
+"at Wazir's castle, and I can't wait to present it."
+msgstr ""
+
+#. [message]: speaker=Orc_Enemy
+#: scenarios/los_s6.cfg:405
+msgid ""
+"Maggots think they can beat Scorpius. No way! The clever Scorpius has a "
+"surprise for them."
+msgstr ""
+
+#. [message]: speaker=Son
+#: scenarios/los_s6.cfg:431
+msgid ""
+"These crawlers are not gonna be easy for the trolls to deal with. The trolls "
+"need Sultan's help."
+msgstr ""
+
+#. [scenario]: id=los_s7
+#: scenarios/los_s7.cfg:5
+msgid "A New Family"
+msgstr ""
+
+#. [message]: speaker=Sultan
+#: scenarios/los_s7.cfg:102
+msgid ""
+"According to our tradition, every warrior has the right to wives captured in "
+"war. Although you didn't know it, I graciously gathered for you a harem of "
+"Wazir's beauties. Let them brighten your leisure."
+msgstr ""
+
+#. [message]: speaker=Son
+#: scenarios/los_s7.cfg:120
+msgid "Grump does not understand. What are the trolls to do with them, Sultan?"
+msgstr ""
+
+#. [message]: speaker=Sultan
+#: scenarios/los_s7.cfg:124
+msgid ""
+"Trust your instincts and have a good time here! Take a good rest. A new, "
+"even more serious campaign against the infidels lies ahead of us."
+msgstr ""
+
+#. [message]: speaker=Son
+#: scenarios/los_s7.cfg:154
+msgid ""
+"It seems the Sultan's enemies will never end... But neither will the "
+"rewards. Grump is tired. Let's rest!"
+msgstr ""
+
+#. [scenario]: id=los_s8
+#: scenarios/los_s8.cfg:5
+msgid "The Oasis of Blood"
+msgstr ""
+
+#. [side]: type=Dune Cataphract, id=Nomad3
+#. [side]: type=Dune Marauder, id=Nomad2
+#. [side]: type=Dune Sky Hunter, id=Nomad3
+#. [side]: type=Dune Windbolt, id=Nomad1
+#: scenarios/los_s8.cfg:136 scenarios/los_s8.cfg:170 scenarios/los_s8.cfg:203
+#: scenarios/los_s8.cfg:236
+msgid "Nomads"
+msgstr ""
+
+#. [message]: speaker=Omar
+#: scenarios/los_s8.cfg:365
+msgid ""
+"One of the stinking nomad chiefs has been killed! Well done, trolls. Now our "
+"Sultan has a much better chance of survival."
+msgstr ""
+
+#. [message]: speaker=Son
+#: scenarios/los_s8.cfg:369
+msgid ""
+"Cowardly infidels flee into the sand. Too bad the trolls can't catch up with "
+"them."
+msgstr ""
+
+#. [message]: speaker=Nomad1
+#: scenarios/los_s8.cfg:386
+msgid "You're caught, you damned Abdul! This oasis will be your grave!"
+msgstr ""
+
+#. [message]: speaker=Nomad2
+#: scenarios/los_s8.cfg:390
+msgid ""
+"And so shall it be to anyone who encroaches upon the lives of free nomads, "
+"the Almighty witnesses!"
+msgstr ""
+
+#. [message]: speaker=Nomad3
+#: scenarios/los_s8.cfg:394
+msgid ""
+"Surrender, you shaitan scum! Your Sultan will die soon, he has no power now, "
+"why die with him?"
+msgstr ""
+
+#. [message]: speaker=Captain_Omar
+#: scenarios/los_s8.cfg:398
+msgid "Never!"
+msgstr ""
+
+#. [message]: speaker=Captain_Omar
+#: scenarios/los_s8.cfg:402
+msgid "Healer, is our Sultan really going to die?"
+msgstr ""
+
+#. [message]: speaker=Healer
+#: scenarios/los_s8.cfg:406
+msgid ""
+"His wounds are very serious, but I can heal them if you give me enough time."
+msgstr ""
+
+#. [message]: speaker=Son
+#: scenarios/los_s8.cfg:410
+msgid "So the Sultan will not die?"
+msgstr ""
+
+#. [message]: speaker=Captain_Omar
+#: scenarios/los_s8.cfg:414
+msgid ""
+"It's up to us, mate. Take up the defences in the mountains. Don't let the "
+"infidels near the Sultan and the Healer. When our Sultan's wounds heal, he "
+"will take command and lead us to victory. During my ten years of service, I "
+"have been in such situations many times."
+msgstr ""
+
+#. [message]: speaker=Son
+#: scenarios/los_s8.cfg:418
+msgid "The trolls will kill anyone who tries to harm the Sultan!"
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/los_s8.cfg:427
+msgid "Hold the defenses until the Sultan is healed"
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/los_s8.cfg:434
+msgid "Defeat one of the nomad leaders"
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/los_s8.cfg:453
+msgid "Death of Healer"
+msgstr ""
+
+#. [message]: speaker=Sultan
+#: scenarios/los_s8.cfg:483
+msgid "Sha, by the will of the Almighty, I am healed!"
+msgstr ""
+
+#. [message]: speaker=Captain_Omar
+#: scenarios/los_s8.cfg:487
+msgid ""
+"Truly, none can compare to your healers, O Great Sultan! What are your "
+"orders?"
+msgstr ""
+
+#. [message]: speaker=Sultan
+#: scenarios/los_s8.cfg:491
+msgid ""
+"I know nomads like the back of my hand. To defeat them, all we have to do is "
+"undermine their confidence that fortune is on their side. To do so, form a "
+"strike force and defeat one of their leaders! Here are my orders."
+msgstr ""
+
+#. [message]: speaker=Captain_Omar
+#: scenarios/los_s8.cfg:501
+msgid "We have already dealt with one of the nomad leaders, O Great Sultan."
+msgstr ""
+
+#. [message]: speaker=Sultan
+#: scenarios/los_s8.cfg:505
+msgid ""
+"Sha, in that case, their flashy warriors are already hesitating. Destroy one "
+"more chief, and they will all flee!"
+msgstr ""
+
+#. [message]: speaker=Captain_Omar
+#: scenarios/los_s8.cfg:511
+msgid "It will be done, O Great Sultan."
+msgstr ""
+
+#. [message]: speaker=Son
+#: scenarios/los_s8.cfg:515
+msgid ""
+"It's too dangerous in the open sand for little friends. Let the humans "
+"protect the Sultan. The trolls will kill the leader of the infidels!"
+msgstr ""
+
+#. [message]: speaker=Captain_Omar
+#: scenarios/los_s8.cfg:519
+msgid "What do you think of that, O Sultan?"
+msgstr ""
+
+#. [message]: speaker=Sultan
+#: scenarios/los_s8.cfg:523
+msgid ""
+"Indeed, the Almighty put these words into the mouth of a troll. My wounds "
+"must have clouded my judgment. If we throw all our forces against the one "
+"nomad leader, we'll leave the rear unprotected. \n"
+"\n"
+"We'll do as Grump suggested. But don't leave the trolls without cover. I "
+"won't stand for all of them dying in these damn sands."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/los_s8.cfg:556
+msgid "Beggar Abdul... What are you without your monsters?"
+msgstr ""
+
+#. [message]: speaker=Son
+#: scenarios/los_s8.cfg:561
+msgid "Shut up, you shaitan scum!"
+msgstr ""
+
+#. [message]: speaker=Captain_Omar
+#: scenarios/los_s8.cfg:599
+msgid ""
+"Truly, none can match your trolls in valor and strength, O Great Sultan. "
+"They have defeated all the nomads!"
+msgstr ""
+
+#. [message]: speaker=Sultan
+#: scenarios/los_s8.cfg:603 scenarios/los_s8.cfg:621
+msgid "Sha! Our troll friends saved us."
+msgstr ""
+
+#. [message]: speaker=Son
+#: scenarios/los_s8.cfg:607 scenarios/los_s8.cfg:625
+msgid ""
+"The trolls remember when the Sultan saved them from the jinn. The trolls pay "
+"Sultan back in kind."
+msgstr ""
+
+#. [message]: speaker=Sultan
+#: scenarios/los_s8.cfg:611
+msgid ""
+"Such noble creatures! Almighty witness, today you have immortalized your "
+"names in the pantheon of heroes of my realm! When we get back to the palace, "
+"we'll have a special feast in your honor."
+msgstr ""
+
+#. [message]: speaker=Captain_Omar
+#: scenarios/los_s8.cfg:617
+msgid ""
+"Truly, you are the wisest of us all, O Great Sultan!! Your plan has worked, "
+"the nomads are fleeing!"
+msgstr ""
+
+#. [message]: speaker=Sultan
+#: scenarios/los_s8.cfg:629
+msgid ""
+"Such noble creatures! Almighty witness, today you have immortalized your "
+"names in the pantheon of heroes of my realm!"
+msgstr ""
+
+#. [message]: speaker=Captain_Omar
+#: scenarios/los_s8.cfg:633
+msgid ""
+"It is time for us to leave, O Sultan. You said it Yourself, nomads are as "
+"fickle as the wind. They may return as suddenly as they fled."
+msgstr ""
+
+#. [message]: speaker=Sultan
+#: scenarios/los_s8.cfg:637
+msgid ""
+"You're right. When we get back to the palace, we'll have a special feast in "
+"honor of our heroes."
+msgstr ""
+
+#. [message]: speaker=Healer
+#: scenarios/los_s8.cfg:652
+msgid "I didn't make it... Cure... Sultan..."
+msgstr ""
+
+#. [message]: speaker=Captain_Omar
+#: scenarios/los_s8.cfg:656
+msgid "Without healer, our Sultan is doomed! We are lost!"
+msgstr ""
+
+#. [scenario]: id=los_s9
+#: scenarios/los_s9.cfg:5
+msgid "A Sudden Evil"
+msgstr ""
+
+#. [part]
+#: scenarios/los_s9.cfg:36
+msgid ""
+"Day after day, the trolls basked in the light of glory. Perhaps that light "
+"was too bright. Once in the shadows, the Sultan's old guard, led by his own "
+"son, staged a rebellion."
+msgstr ""
+
+#. [side]
+#: scenarios/los_s9.cfg:76
+msgid "Wifes"
+msgstr ""
+
+#. [side]
+#: scenarios/los_s9.cfg:89
+msgid "Rebels"
+msgstr ""
+
+#. [message]
+#: scenarios/los_s9.cfg:167
+msgid "That's where those monsters are hiding! Come here!"
+msgstr ""
+
+#. [unit]: id=Enemy
+#: scenarios/los_s9.cfg:190
+msgid "Jaffar"
+msgstr ""
+
+#. [message]: speaker=Son
+#: scenarios/los_s9.cfg:199
+msgid ""
+"Jaffar, the Sultan's son? Why did you come to the home of the trolls with "
+"weapons?"
+msgstr ""
+
+#. [message]: speaker=Enemy
+#: scenarios/los_s9.cfg:203
+msgid ""
+"Father should have kept hiding you in the filthy cellar, you monster. Now "
+"he's paying for his sins in hell with his dog Omar! You are the last dirty "
+"stain on the body of my realm. And now I will wash it away with blood."
+msgstr ""
+
+#. [message]: speaker=Son
+#: scenarios/los_s9.cfg:236
+msgid ""
+"How can you talk about your own father like that! Shaitan must have taken "
+"hold of you. Grump will beat Shaitan out of you with a club!"
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/los_s9.cfg:242
+msgid "Defeat Jaffar"
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/los_s9.cfg:254
+msgid "Death of 3 wives ($|dead_wifes|/3)"
+msgstr ""
+
+#. [note]
+#: scenarios/los_s9.cfg:259
+msgid ""
+"Try to take the cave hills in the center of the battlefield to gain a "
+"tactical advantage."
+msgstr ""
+
+#. [message]: speaker=Son
+#: scenarios/los_s9.cfg:276
+msgid "How could you succumb to Shaitan, Jaffar?"
+msgstr ""
+
+#. [message]: speaker=Enemy
+#: scenarios/los_s9.cfg:280
+msgid ""
+"What do you know about our faith, monster..... It is you who are the spawn "
+"of Shaitan. Even your existence is offensive, but father has gone further. "
+"He has allowed you to insult our home. Our faith. Our women! Father sinned "
+"too much for power, and the Almighty punished him by my hand."
+msgstr ""
+
+#. [message]: speaker=Son
+#: scenarios/los_s9.cfg:284
+msgid ""
+"Jaffar is lying. Humans respect trolls. The only one who has sinned is you!"
+msgstr ""
+
+#. [message]: speaker=Enemy
+#: scenarios/los_s9.cfg:288
+msgid ""
+"Stupid monster. You don't even know what they're happy about. Ah. I regret I "
+"won't see the Almighty punish you and all those who messed with you!"
+msgstr ""
+
+#. [message]: speaker=Son
+#: scenarios/los_s9.cfg:296
+msgid ""
+"Grump can't believe Shaitan has captured the Sultan's son. The trolls must "
+"flee to the Sultan's chambers. Grump hopes that Sultan is still alive!"
+msgstr ""
+
+#. [message]: speaker=Son
+#: scenarios/los_s9.cfg:317
+msgid ""
+"The villains slaughtered the trolls' wives! Now the trolls will be miserable!"
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: scenarios/los_s9.cfg:338
+msgid "Ow, those jackal hurt me!"
+msgstr ""
+
+#. [message]: speaker=Son
+#: scenarios/los_s9.cfg:342
+msgid ""
+"Harming the wives of trolls? Grump will crush you for this, you shaitan scum!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/los_s9.cfg:358
+msgid "I will rid our nation of your shame, you troll bedfellow!"
+msgstr ""
+
+#: utils/characters.cfg:6 utils/characters.cfg:16 utils/characters.cfg:73
+#: utils/characters.cfg:77
+msgid "Grump"
+msgstr ""
+
+#: utils/characters.cfg:44
+msgid "Captain Omar"
+msgstr ""
+
+#: utils/characters.cfg:51
+msgid "Little Abdul"
+msgstr ""
+
+#. [advancement]: id=hero_or_shaman
+#: utils/scenario_events.cfg:21
+msgid "Continue to traverse the world to become a Hero or Shaman."
+msgstr ""
+
+#. [advancement]: id=legendary_thrower
+#: utils/scenario_events.cfg:95
+msgid "Become a legendary thrower"
+msgstr ""
+
+#. [effect]
+#: utils/scenario_events.cfg:103
+msgid "legendary throw"
+msgstr ""
+
+#. [message]: speaker=Son
+#: utils/scenario_events.cfg:211
+msgid ""
+"Little Abdul fights bravely. Just like Grump at his age. Little Abdul will "
+"grow up to be a great troll."
+msgstr ""
+
+#. [message]: speaker=Son
+#: utils/scenario_events.cfg:224
+msgid "Little Abdul fights bravely. Grump is glad he has a worthy heir."
+msgstr ""
+
+#. [message]: speaker=unit
+#: utils/scenario_events.cfg:240
+msgid ""
+"This hot shiny thing has tremendous power. With its help, $unit.name can "
+"approach the fire spirits and become an avatar!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: utils/scenario_events.cfg:292
+msgid "Grump... Doesn't want to leave the trolls..."
+msgstr ""
+
+#. [message]: speaker=unit
+#: utils/scenario_events.cfg:308
+msgid "Oh, woe to the Sultan! It's his turn to fall into eternal sleep!"
+msgstr ""
+
+#. [message]: speaker=Sultan
+#: utils/scenario_events.cfg:324
+msgid ""
+"There is not a more dedicated and talented pomander in the desert than Omar! "
+"Woe to the Sultan! Who will lead his army now?"
+msgstr ""
+
+#. [message]: speaker=unit
+#: utils/scenario_events.cfg:340
+msgid ""
+"Father, what, uh... What's going on? Abdul... is petrified... Abdul doesn't "
+"want to!"
+msgstr ""
+
+#. [message]: speaker=Son
+#: utils/scenario_events.cfg:344
+msgid "No, Grump shouldn't have let his son die!"
+msgstr ""
