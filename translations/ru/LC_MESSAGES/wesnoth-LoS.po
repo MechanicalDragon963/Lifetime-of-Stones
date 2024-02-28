@@ -3,27 +3,27 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-02-27 22:55+0400\n"
-"PO-Revision-Date: 2024-02-27 22:57+0400\n"
+"PO-Revision-Date: 2024-02-28 09:22+0300\n"
+"Last-Translator: \n"
 "Language-Team: \n"
+"Language: ru_RU\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.3\n"
-"Last-Translator: \n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
-"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.4.2\n"
 
 #. [achievement_group]
 #. [campaign]: id=Lifetime_of_Stones
 #: _main.cfg:10 achievements.cfg:4
 msgid "Lifetime of Stones"
-msgstr ""
+msgstr "Жили-были камни"
 
 #. [campaign]: id=Lifetime_of_Stones
 #: _main.cfg:11
 msgid "LoS"
-msgstr ""
+msgstr "ЖБК"
 
 #. [campaign]: id=Lifetime_of_Stones
 #: _main.cfg:16
@@ -35,56 +35,61 @@ msgid ""
 "into. \n"
 "\n"
 msgstr ""
+"После второй Великой Войны жизнь троллей изменилась навсегда. Эхо поражения "
+"при Дарн-Туруме пронеслось через века и достигло даже маленького тролля "
+"Ворчуна, который совсем недавно родился в Знойных Пещерах. Грумп и "
+"представить себе не может, в какие приключения его заведёт наследие седой "
+"древности. \n"
 
 #. [campaign]: id=Lifetime_of_Stones
 #: _main.cfg:18
 msgid "(Intermediate level, 11 scenarios)"
-msgstr ""
+msgstr "(Средний уровень, 11 сценариев)"
 
 #. [campaign]: id=Lifetime_of_Stones
 #: _main.cfg:27
 msgid "Boulder"
-msgstr ""
+msgstr "Булыжник"
 
 #. [campaign]: id=Lifetime_of_Stones
 #: _main.cfg:27
 msgid "Easy"
-msgstr ""
+msgstr "Лёгкий"
 
 #. [campaign]: id=Lifetime_of_Stones
 #: _main.cfg:28
 msgid "Whelp"
-msgstr ""
+msgstr "Детёныш"
 
 #. [campaign]: id=Lifetime_of_Stones
 #: _main.cfg:28
 msgid "Normal"
-msgstr ""
+msgstr "Нормальный"
 
 #. [campaign]: id=Lifetime_of_Stones
 #: _main.cfg:29
 msgid "Hard"
-msgstr ""
+msgstr "Трудный"
 
 #. [campaign]: id=Lifetime_of_Stones
 #: _main.cfg:29
 msgid "Grunt"
-msgstr ""
+msgstr "Здоровяк"
 
 #. [campaign]: id=Lifetime_of_Stones
 #: _main.cfg:30
 msgid "Nightmare"
-msgstr ""
+msgstr "Кошмарный"
 
 #. [campaign]: id=Lifetime_of_Stones
 #: _main.cfg:30
 msgid "Warrior"
-msgstr ""
+msgstr "Воитель"
 
 #. [about]
 #: _main.cfg:33
 msgid "Lead Designer"
-msgstr ""
+msgstr "Ведущий дизайнер"
 
 #. [entry]
 #: _main.cfg:35
@@ -94,7 +99,7 @@ msgstr ""
 #. [about]
 #: _main.cfg:39
 msgid "Assistance"
-msgstr ""
+msgstr "Поддержка"
 
 #. [entry]
 #: _main.cfg:41
@@ -104,103 +109,105 @@ msgstr ""
 #. [achievement]: id=LoS_S1_Upgrades
 #: achievements.cfg:9
 msgid "The ritual of growing up"
-msgstr ""
+msgstr "Ритуал взросления"
 
 #. [achievement]: id=LoS_S1_Upgrades
 #: achievements.cfg:10
 msgid "Upgrade all trolls to at least level two in <i>The Rolling Stones</i>."
 msgstr ""
+"Продвиньте всех троллей хотя бы до второго уровня в  <i>Катящихся Камнях</i>."
 
 #. [achievement]: id=LoS_S2_Cloak
 #: achievements.cfg:15
 msgid "Not such burning Sun"
-msgstr ""
+msgstr "Не такое уж и палящее Солнце"
 
 #. [achievement]: id=LoS_S2_Cloak
 #: achievements.cfg:16
 msgid "Find something to shelter from the Sun in <i>The Realm of Sand</i>."
-msgstr ""
+msgstr "Найдите, чем прикрыться от Солнца в <i>Царстве Песка</i>."
 
 #. [achievement]: id=LoS_S2_Ring
 #: achievements.cfg:21
 msgid "Fried crawlers"
-msgstr ""
+msgstr "Жареные ползучки"
 
 #. [achievement]: id=LoS_S2_Ring
 #: achievements.cfg:22
 msgid "Get the fiery power in <i>The Realm of Sand</i>."
-msgstr ""
+msgstr "Заполучите огненную силу в <i>Царстве Песка</i>."
 
 #. [achievement]: id=LoS_Firestone
 #: achievements.cfg:27
 msgid "My grandfather is Firestone!"
-msgstr ""
+msgstr "Мой дед - Огнекамень!"
 
 #. [achievement]: id=LoS_Firestone
 #: achievements.cfg:28
 msgid "Turn the Troll Shaman into an avatar of fire."
-msgstr ""
+msgstr "Обратите тролля-шамана в аватар огня."
 
 #. [achievement]: id=LoS_S8_Kill
 #: achievements.cfg:33
 msgid "The best defence is offence!"
-msgstr ""
+msgstr "Лучшая защита - это нападение!"
 
 #. [achievement]: id=LoS_S8_Kill
 #: achievements.cfg:34
 msgid "Kill all enemy leaders in <i>The Oasis of Blood</i>."
-msgstr ""
+msgstr "Победите, убив всех лидеров противника в <i>Оазисе Крови</i>."
 
 #. [achievement]: id=LoS_Son
 #: achievements.cfg:39
 msgid "Generational continuity"
-msgstr ""
+msgstr "Преемственность поколений"
 
 #. [achievement]: id=LoS_Son
 #: achievements.cfg:40
 msgid "Grump's son should become a Troll Hero from one advancement."
-msgstr ""
+msgstr "Сын Ворчуна должен стать троллем-героем с одного продвижения."
 
 #. [achievement]: id=LoS_Friends
 #: achievements.cfg:45
 msgid "And they lived happily ever after..."
-msgstr ""
+msgstr "И жили они долго и счастливо..."
 
 #. [achievement]: id=LoS_Friends
 #: achievements.cfg:46
 msgid "At least 1 little friend survived to the end of <i>The Great Trek</i>."
 msgstr ""
+"Хотя бы 1 маленький друг должен уцелеть к концу  <i>Великого Путешествия</i>."
 
 #. [achievement]: id=LoS_Finish
 #: achievements.cfg:51
 msgid "Not a boulder, but the Great Stone!"
-msgstr ""
+msgstr "Не булыжник, а Великий Камень!"
 
 #. [achievement]: id=LoS_Finish
 #: achievements.cfg:52
 msgid "Finish the campaign on Nightmare difficulty level."
-msgstr ""
+msgstr "Пройдите кампанию на Кошмарном уровне сложности. "
 
 #. [scenario]: id=los_s1
 #: scenarios/los_s1.cfg:5
 msgid "The Rolling Stones"
-msgstr ""
+msgstr "Катящиеся Камни"
 
 #. [side]
 #: scenarios/los_s1.cfg:81 scenarios/los_s1.cfg:95 scenarios/los_s10.cfg:82
 #: scenarios/los_s11.cfg:45 scenarios/los_s2.cfg:37
 msgid "Rolling Stones"
-msgstr ""
+msgstr "Катящиеся Камни"
 
 #. [unit]: id=Father, type=Great Troll
 #: scenarios/los_s1.cfg:101
 msgid "Zuug"
-msgstr ""
+msgstr "Жууг"
 
 #. [side]
 #: scenarios/los_s1.cfg:117 scenarios/los_s10.cfg:130 scenarios/los_s2.cfg:45
 msgid "Monsters"
-msgstr ""
+msgstr "Монстры"
 
 #. [message]: speaker=Father
 #: scenarios/los_s1.cfg:201
@@ -208,6 +215,8 @@ msgid ""
 "It's time, little ones. The stones say the trolls must find a new home. The "
 "stones will show the way. Zuug will lead you."
 msgstr ""
+"Время пришло, малыши. Камни говорят, тролли должны найти новый дом. Камни "
+"укажут путь, Жууг выведет вас."
 
 #. [message]: speaker=Father
 #: scenarios/los_s1.cfg:229
@@ -215,32 +224,34 @@ msgid ""
 "As Zuug's son, Grump must be first among the cubs. Be brave and stand up for "
 "your kin."
 msgstr ""
+"Как сын Жууга, Ворчун должен быть первым среди детёнышей. Будь храбр и "
+"защищай сородичей."
 
 #. [message]: speaker=Grumps_Son
 #. [message]: speaker=Son
 #: scenarios/los_s1.cfg:233 scenarios/los_s11.cfg:105
 msgid "Yes, father."
-msgstr ""
+msgstr "Да, отец. "
 
 #. [objective]: condition=win
 #: scenarios/los_s1.cfg:258
 msgid "Follow Zuug to the exit of the cave"
-msgstr ""
+msgstr "Следуйте за Жуугом к выходу из пещеры"
 
 #. [objective]: condition=win
 #: scenarios/los_s1.cfg:262
 msgid "Bonus Objective:"
-msgstr ""
+msgstr "Бонусное задание:"
 
 #. [objective]: condition=win
 #: scenarios/los_s1.cfg:263
 msgid "Level up Grump"
-msgstr ""
+msgstr "Продвиньте Ворчуна на уровень 2"
 
 #. [objective]: condition=lose
 #: scenarios/los_s1.cfg:273
 msgid "Death of Zuug"
-msgstr ""
+msgstr "Смерть Жууга"
 
 #. [objective]: condition=lose
 #: scenarios/los_s1.cfg:277 scenarios/los_s10.cfg:495 scenarios/los_s2.cfg:171
@@ -248,7 +259,7 @@ msgstr ""
 #: scenarios/los_s4.cfg:311 scenarios/los_s6.cfg:260 scenarios/los_s8.cfg:438
 #: scenarios/los_s9.cfg:246
 msgid "Death of Grump"
-msgstr ""
+msgstr "Смерть Ворчуна"
 
 #. [note]
 #: scenarios/los_s1.cfg:282
@@ -256,16 +267,18 @@ msgid ""
 "Zuug can break some cave walls with his hammer. Allow him to stand on a hex "
 "with a rubble to break the deadlock."
 msgstr ""
+"Жууг может ломать некоторые стены пещеры своим молотом. Позвольте ему встать "
+"на гекс с завалом, чтобы пробить тупик."
 
 #. [message]: speaker=Father
 #: scenarios/los_s1.cfg:320
 msgid "The stones say the trolls should head east."
-msgstr ""
+msgstr "Камни говорят, троллям на восток."
 
 #. [message]: speaker=Father
 #: scenarios/los_s1.cfg:380
 msgid "The stones say the exit is near. The trolls should head north."
-msgstr ""
+msgstr "Камни говорят, выход близко. Троллям нужно на север."
 
 #. [message]: speaker=Father
 #: scenarios/los_s1.cfg:424
@@ -274,12 +287,15 @@ msgid ""
 "would be so hard. The stones say Zuug's time is running out. The stones are "
 "calling Zuug."
 msgstr ""
+"Вот и выход. Не думал Жууг, что пробиваться сквозь стены будет так трудно. "
+"Камни говорят, пробил час Жууга. Камни зовут Жууга к себе."
 
 #. [message]: speaker=Son
 #: scenarios/los_s1.cfg:428
 msgid ""
 "What are father saying? Father so big and strong. Father just need to rest."
 msgstr ""
+"Что говорит отец? Отец такой большой и сильный. Отцу просто нужен отдых."
 
 #. [message]: speaker=Father
 #: scenarios/los_s1.cfg:432
@@ -289,11 +305,15 @@ msgid ""
 "dwarves. Do not forget the legend father told. Pass it on to the young "
 "trolls. Learn to listen to the stones. Never go back."
 msgstr ""
+"Послушай. Ворчун должен возглавить племя. Закончи, что отец начал. Найди "
+"троллям новый дом. будь твёрд, как скала. Остерегайся уродливых гномов и "
+"подлых эльфов. Не забывай легенду, что отец рассказал. Пересказывай её "
+"молодым троллям. Учись слушать камни. Никогда не поворачивай назад."
 
 #. [message]: speaker=Son
 #: scenarios/los_s1.cfg:436
 msgid "Father, no, do not leave trolls..."
-msgstr ""
+msgstr "Отец, нет, не оставляй троллей..."
 
 #. [message]: speaker=Son
 #: scenarios/los_s1.cfg:458
@@ -302,6 +322,10 @@ msgid ""
 "healthy... Grump will do what father told. What these stones say... Grump "
 "guess they say the trolls should head north. Follow Grump."
 msgstr ""
+"Ворчун не может в это поверить. Ещё совсем недавно отец выглядел таким "
+"сильным и здоровым... Ворчун поступит, как отец велел. Что там говорят эти "
+"камни... Ворчун думает, они говорят, что троллям на север. Следуйте за "
+"Ворчуном."
 
 #. [message]: speaker=Father
 #: scenarios/los_s1.cfg:549
@@ -309,17 +333,19 @@ msgid ""
 "Grump is fighting good. Seems that he has raised a worthy troll. With Grump "
 "the Rolling Stones will be fine."
 msgstr ""
+"Ворчун дерётся хорошо. Похоже он вырос в достойного троллям. С Ворчуном "
+"Катящиеся Камни будут в порядке."
 
 #. [scenario]: id=los_s10
 #: scenarios/los_s10.cfg:5
 msgid "The Great Trek"
-msgstr ""
+msgstr "Великое Путешествие"
 
 #. [side]
 #: scenarios/los_s10.cfg:93 scenarios/los_s2.cfg:61 scenarios/los_s3.cfg:55
 #: scenarios/los_s5.cfg:56 scenarios/los_s7.cfg:49
 msgid "Dunefolk"
-msgstr ""
+msgstr "Народ Пустыни"
 
 #. [message]
 #: scenarios/los_s10.cfg:477
@@ -328,6 +354,9 @@ msgid ""
 "our capital on the horizon..... O Great Troll Sultan, why do you lead us not "
 "into battle but into the desert?"
 msgstr ""
+"Наше царство захвачено неверными... Даже сейчас я вижу, как дым от нашей "
+"столицы поднимается из-за горизонта... О Великий Тролль-Султан, почему ты "
+"ведёшь нас не в бой, но в пустыню?"
 
 #. [message]: speaker=Son
 #: scenarios/los_s10.cfg:481
@@ -336,22 +365,26 @@ msgid ""
 "Almighty showed Grump the way. Grump will lead everyone to a new better home "
 "where Shaitan will not find us. Follow Grump!"
 msgstr ""
+"Пусть Шайтан захватил наше царство, не отчаивайтесь, маленькие друзья. "
+"Всевышний указал Ворчуну путь. Ворчун приведёт всех в новый лучший дом, где "
+"Шайтан не найдёт нас. Все за Ворчуном!"
 
 #. [message]
 #: scenarios/los_s10.cfg:485
 msgid ""
 "If so, lead us to a new heaven, O Great Troll Sultan, blessed by the skies!"
 msgstr ""
+"Раз так, веди нас в рай, о Великий Тролль-Султан, благословлённый небом!"
 
 #. [objective]: condition=win
 #: scenarios/los_s10.cfg:491
 msgid "Move Grump to the east border of the map"
-msgstr ""
+msgstr "Ворчун должен достигнуть восточной границы карты"
 
 #. [objective]: condition=lose
 #: scenarios/los_s10.cfg:499 scenarios/los_s9.cfg:250
 msgid "Death of Little Abdul"
-msgstr ""
+msgstr "Смерть Крохи-Абдула"
 
 #. [note]
 #: scenarios/los_s10.cfg:503
@@ -359,6 +392,8 @@ msgid ""
 "Your allies from the dunefolk will try to follow the trolls and stick as a "
 "group."
 msgstr ""
+"Ваши союзники из народа пустыни будут стараться следовать за троллями и "
+"держаться группой."
 
 #. [note]
 #: scenarios/los_s10.cfg:507
@@ -366,6 +401,8 @@ msgid ""
 "You don't have to worry too much about the survival of your allies. It is "
 "better to gather the trolls into one group and move forward."
 msgstr ""
+"Не стоит слишком сильно переживать о выживании союзников. Лучше держите "
+"троллей одной группой и продвигайтесь вперёд."
 
 #. [message]: speaker=Son
 #: scenarios/los_s10.cfg:526
@@ -373,6 +410,8 @@ msgid ""
 "The Almighty has guided us to the mountains. That's good. The voice of the "
 "Almighty is clearer through the rocks."
 msgstr ""
+"Всевышний привёл нас в горы. Это хорошо. Через камни голос Всевышнего "
+"доносится яснее."
 
 #. [message]
 #: scenarios/los_s10.cfg:530
@@ -380,6 +419,8 @@ msgid ""
 "Indeed, the ways of the Almighty are inscrutable, for these mountains are "
 "known only for impassable rubble and terrible monsters. "
 msgstr ""
+"Воистину, пути Всевышнего неисповедимо, ибо эти горы славятся лишь "
+"непроходимыми завалами и ужасными чудовищами."
 
 #. [message]: speaker=Son
 #: scenarios/los_s10.cfg:534
@@ -387,6 +428,8 @@ msgid ""
 "Sultan Abdul said that the Almighty does not send trials greater than we can "
 "bear. Do not be afraid, little friends. The trolls will clear your path."
 msgstr ""
+"Султан Абдул говорил, что Всевышний не посылает испытаний больше, чем мы "
+"можем вынести. Не отчаивайтесь, маленькие друзья. Тролли расчистят путь."
 
 #. [message]: speaker=Son
 #: scenarios/los_s10.cfg:555
@@ -394,6 +437,8 @@ msgid ""
 "Aimighty says, our home is in these caves. Praise the Almighty! Grump really "
 "missed the caves."
 msgstr ""
+"Всевышний говорит, наш дом в этих пещерах. Слава Всевышнему! Ворчун "
+"соскучился по пещерам."
 
 #. [message]: speaker=Son
 #: scenarios/los_s10.cfg:589
@@ -401,11 +446,13 @@ msgid ""
 "Almighty... The voice of the Almighty fades in the caves. No wonder, He "
 "lives in the sky. But the stones say that the trolls are near."
 msgstr ""
+"Всевышний... Голос Всевышнего глохнет в пещерах. Оно и понятно, Он ведь "
+"живёт на небе. Но камни говорят, что тролли уже близко."
 
 #. [message]: race=troll
 #: scenarios/los_s10.cfg:616
 msgid "Grump, our path is hard. Crawlers are killing our little friends."
-msgstr ""
+msgstr "Ворчун, наш путь труден. Ползучки убивают наших маленьких друзей."
 
 #. [message]: speaker=Son
 #: scenarios/los_s10.cfg:620
@@ -413,11 +460,13 @@ msgid ""
 "There's no need to be afraid of crawlers, fighting them makes us grow. Grump "
 "is sure the little friends will grow too."
 msgstr ""
+"Не стоит бояться ползучек, сражаясь с ними, мы выросли. Ворчун уверен, "
+"маленькие друзья тоже вырастут."
 
 #. [message]: race=troll
 #: scenarios/los_s10.cfg:644
 msgid "Crawlers killed all the little friends..."
-msgstr ""
+msgstr "Ползучки переюили всех маленьких друзей..."
 
 #. [message]: speaker=Son
 #: scenarios/los_s10.cfg:648
@@ -425,11 +474,13 @@ msgid ""
 "What happened? I know crawlers are so weak. Even a troll whelp could crush "
 "dozens of them."
 msgstr ""
+"Как так вышло? Ведь ползучки такие слабые. Даже маленький тролль может "
+"раздавить с десяток их."
 
 #. [message]: race=troll
 #: scenarios/los_s10.cfg:654
 msgid "It seems the little friends were much weaker than the trolls. "
-msgstr ""
+msgstr "Похоже, маленькие друзья были гораздо слабее троллей."
 
 #. [message]: speaker=Son
 #: scenarios/los_s10.cfg:658
@@ -437,6 +488,8 @@ msgid ""
 "Uh-huh. At least they already found their home in the heaven. Now we just "
 "need to find a home for the trolls. Not in the heaven, but in the caves."
 msgstr ""
+"Угу-м. Зато они уже нашли свой дом в раю. Нам осталось лишь найти дом для "
+"троллей. Не в раю, а где-нибудь в пещерах."
 
 #. [message]: speaker=Son
 #: scenarios/los_s10.cfg:673
@@ -444,16 +497,18 @@ msgid ""
 "The little friends grow up fighting crawlers, just like trolls. At the end "
 "of the journey, they all will become mighty warriors!"
 msgstr ""
+"Маленькие друзья растут, сражаясь с ползучками, прямо как тролли. К концу "
+"путешествия они все станут могучими воинами!"
 
 #. [scenario]: id=los_epilogue
 #: scenarios/los_s11.cfg:5
 msgid "Epilogue"
-msgstr ""
+msgstr "Эпилог"
 
 #. [part]
 #: scenarios/los_s11.cfg:20
 msgid "Many years later..."
-msgstr ""
+msgstr "Много лет спустя..."
 
 #. [message]: speaker=narrator
 #: scenarios/los_s11.cfg:70
@@ -462,6 +517,9 @@ msgid ""
 "Stones tribe, beginning with Durn-Turum and and ending with the events of "
 "his life."
 msgstr ""
+"Прямо как отец много лет назад, Ворчун рассказал детёнышам легенду о "
+"Катящихся Камнях, начиная от Дарн-Турума и заканчивая приключениями из его "
+"собственной жизни."
 
 #. [message]: speaker=Son
 #: scenarios/los_s11.cfg:74
@@ -470,6 +528,9 @@ msgid ""
 "Grump feels the time has come. The Rolling Stones must find a new home, lest "
 "Shaitan find the Rolling Stones. Grump will lead you out."
 msgstr ""
+"...Вот так Катящиеся Камни оказались в этой пещере. Тут было хорошо, но "
+"Ворчун чувствует, что время пришло. Катящиеся Камни должны найти новый дом, "
+"иначе Шайтан найдёт Катящихся Камней. Ворчун выведет вас."
 
 #. [message]: speaker=Son
 #: scenarios/los_s11.cfg:101
@@ -477,11 +538,13 @@ msgid ""
 "As Grump's eldest son, Abdul must be first among the trolls. Be brave and "
 "protect your kin."
 msgstr ""
+"Как старший сын Ворчуна, Абдул должен быть первым среди троллей. Будь храбр "
+"и защищай сородичей."
 
 #. [scenario]: id=los_s2
 #: scenarios/los_s2.cfg:5
 msgid "The Realm of Sand"
-msgstr ""
+msgstr "Царство Песка"
 
 #. [message]
 #: scenarios/los_s2.cfg:157
@@ -490,6 +553,8 @@ msgid ""
 "nothing to eat. There is nothing to drink. Are Grump sure the rocks pointed "
 "this way?"
 msgstr ""
+"Ворчун, тролли идут по песку целыми днями. Тут жарко и нечего есть. Тут "
+"нечего пить. Ворчун уверен, что камни указали именно этот путь?"
 
 #. [message]: speaker=Son
 #: scenarios/los_s2.cfg:161
@@ -497,11 +562,13 @@ msgid ""
 "Do not despair. Father said the trolls should be solid as a rock, remember? "
 "The stones guided the trolls here. Grump sure, the sand will run out soon."
 msgstr ""
+"Не отчаивайся. Отец велел троллям быть твёрдыми, как сказала, помнишь? Камни "
+"направили троллей сюда. Ворчун уверен, песок скоро кончится. "
 
 #. [objective]: condition=win
 #: scenarios/los_s2.cfg:167
 msgid "Move north"
-msgstr ""
+msgstr "Двигайтесь на север"
 
 #. [note]
 #: scenarios/los_s2.cfg:177
@@ -509,11 +576,13 @@ msgid ""
 "Explore the area along the way, but don't spread out too much to avoid "
 "becoming easy prey for desert monsters."
 msgstr ""
+"Исследуйте местность вокруг, но не разбредайтесь слишком далеко, чтобы не "
+"стать лёгкой добычей для пустынных монстров."
 
 #. [message]: speaker=Son
 #: scenarios/los_s2.cfg:195
 msgid "Look, a crawler! Now the trolls going to have a meal."
-msgstr ""
+msgstr "Гляди, ползучка! Сейчас у троллей будет перекус."
 
 #. [message]: speaker=Son
 #: scenarios/los_s2.cfg:211
@@ -521,33 +590,35 @@ msgid ""
 "The crawlers here are stale and not tasty at all, but it is better than "
 "nothing. Now the trolls need to find something to drink them with."
 msgstr ""
+"Ползучки здесь сухие и совсем не вкусные, но это лучше чем ничего. Теперь "
+"троллям нужно найти, чем её запить."
 
 #. [message]: speaker=unit
 #: scenarios/los_s2.cfg:235
 msgid "Look, it is water!"
-msgstr ""
+msgstr "Вон там, вода!"
 
 #. [message]: speaker=Son
 #: scenarios/los_s2.cfg:239
 msgid ""
 "See, the stones were right, it is not so bad in the sand. Come on, let's go "
 "for a swim!"
-msgstr ""
+msgstr "Видишь, камни были правы, в песке не так уж и плохо. Айда искупаемся!"
 
 #. [objective]: condition=win
 #: scenarios/los_s2.cfg:245
 msgid "Move Grump to the water"
-msgstr ""
+msgstr "Переместите Ворчуна в воду"
 
 #. [message]: speaker=unit
 #: scenarios/los_s2.cfg:275
 msgid "Grump did not realize it could be so good in the water!"
-msgstr ""
+msgstr "Ворчун и не думал, что в воде может быть так хорошо!"
 
 #. [unit]: type=Jinn, id=Jinn
 #: scenarios/los_s2.cfg:314
 msgid "Sibjan"
-msgstr ""
+msgstr "Сибджан"
 
 #. [message]: speaker=Jinn
 #: scenarios/los_s2.cfg:357
@@ -555,21 +626,24 @@ msgid ""
 "Foolish creatures, how easily you fell into my trap! The desert creatures "
 "will ravage your bodies, and I will devour your souls!"
 msgstr ""
+"Глупые создания, как легко вы попались в мою ловушку! Пустынные твари "
+"разорвут ваши тела, и я пожру ваши души!"
 
 #. [message]
 #: scenarios/los_s2.cfg:362
 msgid "The trolls are trapped! Grump, what do the trolls do?!"
-msgstr ""
+msgstr "Тролли в ловушке! Ворчун, что делать?!"
 
 #. [message]: speaker=Son
 #: scenarios/los_s2.cfg:366
 msgid "Let's give that brat a good beating! He will know how to trick trolls!"
 msgstr ""
+"Зададим этому негодю хорошую трёпку! Будет знать, как обманывать троллей!"
 
 #. [objective]: condition=win
 #: scenarios/los_s2.cfg:372 scenarios/los_s2.cfg:543
 msgid "Defeat the Jinn"
-msgstr ""
+msgstr "Одолейте джинна"
 
 #. [note]
 #: scenarios/los_s2.cfg:382
@@ -577,11 +651,14 @@ msgid ""
 "Scuttler scorpions will be difficult to deal with in open sand. It is better "
 "to take up defenses on the dunes."
 msgstr ""
+"Скорпионы-отшельники - опасные противники на открытых песках. Лучше займите "
+"оборону на дюнах. "
 
 #. [message]: speaker=second_unit
 #: scenarios/los_s2.cfg:426
 msgid "Those nasty crawlers do not want to squash! $second_unit.name worried."
 msgstr ""
+"Эти гадкие ползучки совсем не хотят давиться!  $second_unit.name переживает."
 
 #. [message]: speaker=Sultan
 #: scenarios/los_s2.cfg:485
@@ -589,28 +666,32 @@ msgid ""
 "Sha, the stars were right! Something bad is happening on this road. I'm "
 "destined for battle."
 msgstr ""
+"Ша, звёзды были правы! Нечто плохое происходит на этой дороге. Мне суждена "
+"битва."
 
 #. [message]: speaker=Captain_Omar
 #: scenarios/los_s2.cfg:489
 msgid ""
 "It seems one of the escaped jinns has gone on a rampage, O Great Sultan."
-msgstr ""
+msgstr "Похоже, один из сбежавших джиннов разбушевался, о Великий Султан."
 
 #. [message]: speaker=Sultan
 #: scenarios/los_s2.cfg:493
 msgid "I see. Aren't my subjects in the trap of this shaitan?"
-msgstr ""
+msgstr "Я вижу. Уж не мои ли подданные в ловушке этого шайтана?"
 
 #. [message]: speaker=Captain_Omar
 #: scenarios/los_s2.cfg:498
 msgid ""
 "Fortunately not, O Great Sultan. Some strange creatures are fighting him."
 msgstr ""
+"К счастью - нет, о Великий Султан. Какие-то чужеземные создания сражаются с "
+"ним."
 
 #. [message]: speaker=Sultan
 #: scenarios/los_s2.cfg:502
 msgid "Thank the Almighty, I have enough servants at hand to help them."
-msgstr ""
+msgstr "Слава Всевышнему, у меня под рукой достаточно слуг, чтобы помочь им."
 
 #. [message]: speaker=Captain_Omar
 #: scenarios/los_s2.cfg:507
@@ -618,6 +699,8 @@ msgid ""
 "Forgive my impertinence, O Great Sultan, but wouldn't it be better to let "
 "the monsters destroy each other and save the lives of our warriors?"
 msgstr ""
+"Простите мою дерзость, о Великий Султан, но не лучше ли будет позволить "
+"чудовищам перебить друг друга и сохранить жизни наших воинов?"
 
 #. [message]: speaker=Sultan
 #: scenarios/los_s2.cfg:511
@@ -625,11 +708,13 @@ msgid ""
 "The Stars are guiding me. I command you to help these creatures destroy the "
 "jinn!"
 msgstr ""
+"Меня ведут Звёзды. Повелеваю вам помочь этим созданиям уничтожить джинна!"
 
 #. [message]: speaker=Captain_Omar
 #: scenarios/los_s2.cfg:515
 msgid "Truly, you are the kindest of us all, Great Sultan. Your will be done."
 msgstr ""
+"Истинно, вы добрейший из нас, о Великий Султан. Ваша воля будет исполнена."
 
 #. [message]: speaker=Jinn
 #: scenarios/los_s2.cfg:519
@@ -637,22 +722,25 @@ msgid ""
 "Sultan Abdul! Did you come to see how your wishes changed the desert, ha-ha-"
 "ha!"
 msgstr ""
+"Султан Абдул! Пришёл посмотреть, как твои желания изменили пустыню, ха-ха-ха!"
 
 #. [message]: speaker=Son
 #: scenarios/los_s2.cfg:523
 msgid ""
 "Tiny creatures run here with weapons. Grump hopes they will help the trolls."
 msgstr ""
+"Маленькие создания бегут сюда с оружием. Ворчун надеется, они помогут "
+"троллям."
 
 #. [objective]: condition=lose
 #: scenarios/los_s2.cfg:551 scenarios/los_s4.cfg:315
 msgid "Death of Sultan"
-msgstr ""
+msgstr "Смерть Султана"
 
 #. [objective]: condition=lose
 #: scenarios/los_s2.cfg:555 scenarios/los_s8.cfg:446
 msgid "Death of Omar"
-msgstr ""
+msgstr "Смерть Омара"
 
 #. [message]: speaker=Jinn
 #: scenarios/los_s2.cfg:575
@@ -660,11 +748,13 @@ msgid ""
 "If it's not me, my brothers will finish what you started, Sultan. Your "
 "wishes will destroy you, mark my words!"
 msgstr ""
+"Не я, так мои братья закончат то, что ты начал, Султан. Твои желания "
+"уничтожат тебя, попомни мои слова!"
 
 #. [message]
 #: scenarios/los_s2.cfg:591
 msgid "The jinn is defeated, O Great Sultan."
-msgstr ""
+msgstr "Джинн повержен, о Великий Султан."
 
 #. [message]: speaker=Sultan
 #: scenarios/los_s2.cfg:595
@@ -672,6 +762,8 @@ msgid ""
 "Your people never cease to delight me, Omar. Well done. Now I wish to meet "
 "the strangers we've rescued."
 msgstr ""
+"Твои люди не перестают меня радовать, Омар. Хорошая работа. Теперь я желаю "
+"познакомиться с чужаками, что мы спасли. "
 
 #. [message]: speaker=Sultan
 #: scenarios/los_s2.cfg:603
@@ -680,6 +772,8 @@ msgid ""
 "life, but this is the first time I have seen such creatures. Who are you? "
 "How did you come to my realm?"
 msgstr ""
+"Воистину, Всевышний не перестаёт удивлять. За свои лета я повидал многое, но "
+"таких созданий вижу впервые. Кто вы такие? Как попали в моё царство?"
 
 #. [message]: speaker=Son
 #: scenarios/los_s2.cfg:607
