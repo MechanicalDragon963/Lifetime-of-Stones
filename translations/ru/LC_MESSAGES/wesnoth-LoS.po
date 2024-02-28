@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-02-27 22:55+0400\n"
-"PO-Revision-Date: 2024-02-28 09:41+0300\n"
+"PO-Revision-Date: 2024-02-28 09:42+0300\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru_RU\n"
@@ -186,7 +186,7 @@ msgstr "Не булыжник, а Великий Камень!"
 #. [achievement]: id=LoS_Finish
 #: achievements.cfg:52
 msgid "Finish the campaign on Nightmare difficulty level."
-msgstr "Пройдите кампанию на Кошмарном уровне сложности. "
+msgstr "Пройдите кампанию на Кошмарном уровне сложности."
 
 #. [scenario]: id=los_s1
 #: scenarios/los_s1.cfg:5
@@ -231,7 +231,7 @@ msgstr ""
 #. [message]: speaker=Son
 #: scenarios/los_s1.cfg:233 scenarios/los_s11.cfg:105
 msgid "Yes, father."
-msgstr "Да, отец. "
+msgstr "Да, отец."
 
 #. [objective]: condition=win
 #: scenarios/los_s1.cfg:258
@@ -563,7 +563,7 @@ msgid ""
 "The stones guided the trolls here. Grump sure, the sand will run out soon."
 msgstr ""
 "Не отчаивайся. Отец велел троллям быть твёрдыми, как сказала, помнишь? Камни "
-"направили троллей сюда. Ворчун уверен, песок скоро кончится. "
+"направили троллей сюда. Ворчун уверен, песок скоро кончится."
 
 #. [objective]: condition=win
 #: scenarios/los_s2.cfg:167
@@ -652,7 +652,7 @@ msgid ""
 "to take up defenses on the dunes."
 msgstr ""
 "Скорпионы-отшельники - опасные противники на открытых песках. Лучше займите "
-"оборону на дюнах. "
+"оборону на дюнах."
 
 #. [message]: speaker=second_unit
 #: scenarios/los_s2.cfg:426
@@ -763,7 +763,7 @@ msgid ""
 "the strangers we've rescued."
 msgstr ""
 "Твои люди не перестают меня радовать, Омар. Хорошая работа. Теперь я желаю "
-"познакомиться с чужаками, что мы спасли. "
+"познакомиться с чужаками, что мы спасли."
 
 #. [message]: speaker=Sultan
 #: scenarios/los_s2.cfg:603
@@ -836,7 +836,7 @@ msgid ""
 "Cover my head from the sun with it."
 msgstr ""
 "В заброшенном доме нет ни еды, ни воды. Только кусок ткани. Прикрою им "
-"голову от солнца. "
+"голову от солнца."
 
 #. [object]
 #: scenarios/los_s2.cfg:663
@@ -925,7 +925,7 @@ msgid ""
 "you shortly. He will teach you how to fight in the desert."
 msgstr ""
 "Ша, великолепно! Располагайтесь, чувствуйте себя как дома. Мой офицер скоро "
-"посетит вас, он обучит вас искусству боя на песке. "
+"посетит вас, он обучит вас искусству боя в пустыне."
 
 #. [message]: speaker=Son
 #: scenarios/los_s3.cfg:140
@@ -950,7 +950,7 @@ msgid ""
 msgstr ""
 "Выше нос! Султан не обманул - тролли теперь ни в чём не нуждаются. Султан "
 "накормил и напоил нас. Он - наш друг. Лучше быть с Султаном, чем одним в "
-"пустыне. "
+"пустыне."
 
 #. [message]
 #: scenarios/los_s3.cfg:180
@@ -964,7 +964,7 @@ msgid ""
 "live rocks in here."
 msgstr ""
 "Эти камни не говорят. Они мёртвые. Хм. Троллям нужно принести сюда парочку "
-"живых камней. "
+"живых камней."
 
 #. [message]: speaker=Captain_Omar
 #: scenarios/los_s3.cfg:206
