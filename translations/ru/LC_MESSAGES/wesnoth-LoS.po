@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-02-27 22:55+0400\n"
-"PO-Revision-Date: 2024-02-28 09:22+0300\n"
+"PO-Revision-Date: 2024-02-28 09:41+0300\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru_RU\n"
@@ -781,6 +781,8 @@ msgid ""
 "We are the trolls of the Rolling Stones tribe. We're looking for a new home. "
 "The stones led us here. And who are you?"
 msgstr ""
+"Мы - тролли из племени Катящихся Камней. Мы ищем новый дом. Камни направили "
+"нас сюда. А ты кто?"
 
 #. [message]: speaker=Sultan
 #: scenarios/los_s2.cfg:611
@@ -790,6 +792,10 @@ msgid ""
 "comes here, he will find his death, just like this jinn. Are you trolls "
 "friends or enemies?"
 msgstr ""
+"Я - Султан Абдул, владыка этой пустыни. Всё, что вы видите вокруг, "
+"принадлежит мне. Если друг войдёт в моё царство, он не будет испытывать "
+"нужды ни в чём; если же враг явится сюда, он встретит свою смерть, прямо как "
+"этот джинн. А вы, тролли, друзья или враги?"
 
 #. [message]: speaker=Son
 #: scenarios/los_s2.cfg:615
@@ -797,6 +803,7 @@ msgid ""
 "The trolls need food, water, and a home. The trolls want to be Sultan's "
 "friends."
 msgstr ""
+"Тролли нуждаются в еде, воде и доме. Тролли хотят быть друзьями Султана."
 
 #. [message]: speaker=Sultan
 #: scenarios/los_s2.cfg:619
@@ -807,6 +814,11 @@ msgid ""
 "friends. Follow me - I will take you to my palace, where I will welcome you "
 "as friends with all the Sultan's hospitality!"
 msgstr ""
+"Воистину, нет равных моим звездочётам, ибо их предсказания сбываются в "
+"точности! Ведь кроме битвы мне была предначертана удивительная встреча. "
+"Звёзды сплели нити наших судеб воедино, тролли. Мы будем друзьями. Следуйте "
+"за мной, я отведу вас в свой дворец, где приму как друзей со всем султанским "
+"гостеприимством!"
 
 #. [message]: speaker=Jinn
 #: scenarios/los_s2.cfg:643
@@ -814,6 +826,8 @@ msgid ""
 "Stupid Sultan! You yourself wished your desert to be full of game, so why do "
 "you attack the animals?"
 msgstr ""
+"Глупый Султан! Ты сам желал, чтобы твоя пустыня была полна дичи, так зачем "
+"ты нападаешь на зверей?"
 
 #. [message]: speaker=unit
 #: scenarios/los_s2.cfg:659
@@ -821,18 +835,20 @@ msgid ""
 "There is no food or water in this abandoned house. Just a piece of cloth. "
 "Cover my head from the sun with it."
 msgstr ""
+"В заброшенном доме нет ни еды, ни воды. Только кусок ткани. Прикрою им "
+"голову от солнца. "
 
 #. [object]
 #: scenarios/los_s2.cfg:663
 msgid "Cloak of Desert Wanderer"
-msgstr ""
+msgstr "Плащ пустынного странника"
 
 #. [object]
 #: scenarios/los_s2.cfg:665
 msgid ""
 "This cloak protects from the sun and allows the wearer to move faster (+1 "
 "movement)."
-msgstr ""
+msgstr "Защищает от солнца и позволяет двигаться быстрее (+1 ход)."
 
 #. [message]: speaker=unit
 #: scenarios/los_s2.cfg:698
@@ -840,6 +856,8 @@ msgid ""
 "What an unusual crawler, wanted to hide in the sand! $unit.name wonder what "
 "it tastes like?"
 msgstr ""
+"Что за необычная ползучка, хотела спрятаться в песке! $unit.name хочет "
+"попробовать её на вкус."
 
 #. [message]: speaker=second_unit
 #: scenarios/los_s2.cfg:716 scenarios/los_s2.cfg:760
@@ -847,11 +865,13 @@ msgid ""
 "This is a very tasty crawler. And it had some shiny thing on its nose. "
 "$second_unit.name gonna take the shiny thing for himself. Ouch, it burns."
 msgstr ""
+"Очень вкусная ползучка. А ещё у неё какая-то блестяшка на носу. $second_unit."
+"name возьмёт блестяшку себе. Ай, жжётся."
 
 #. [object]
 #: scenarios/los_s2.cfg:720 scenarios/los_s2.cfg:764
 msgid "The Ring of Ifrit"
-msgstr ""
+msgstr "Кольцо ифрита"
 
 #. [object]
 #: scenarios/los_s2.cfg:722 scenarios/los_s2.cfg:766
@@ -860,6 +880,9 @@ msgid ""
 "troll's skin is thick enough to hold it. (Changes the damage type of all "
 "attacks to fire)."
 msgstr ""
+"Раскалённое кольцо, по неведомым обстоятельствам потерянное мифическим "
+"существом. К счастью, кожа тролля достаточно толстая, чтобы держать его. "
+"(Изменяет тип урона всех атак на огонь)."
 
 #. [message]: speaker=second_unit
 #: scenarios/los_s2.cfg:782
@@ -867,17 +890,19 @@ msgid ""
 "This hot shiny thing has tremendous power. With its help, $second_unit.name "
 "can approach the fire spirits and become an avatar!"
 msgstr ""
+"В этой блестяшке сокрыта могучая сила. С ней $second_unit.name сможет "
+"приблизиться к духам огня и стать аватаром!"
 
 #. [scenario]: id=los_s3
 #: scenarios/los_s3.cfg:5
 msgid "A New Home"
-msgstr ""
+msgstr "Новый Дом"
 
 #. [side]
 #: scenarios/los_s3.cfg:44 scenarios/los_s5.cfg:45 scenarios/los_s7.cfg:38
 #: scenarios/los_s9.cfg:60
 msgid "Trolls"
-msgstr ""
+msgstr "Тролли"
 
 #. [message]: speaker=Sultan
 #: scenarios/los_s3.cfg:128
@@ -885,11 +910,13 @@ msgid ""
 "My humble cellar doesn't compare to a cave, but it's the best I can offer "
 "for creatures like you. Do you like it?"
 msgstr ""
+"Мой скромный подвал не сравнится с пещерой, но это лучшее, что я могу "
+"предложить для таких существ, как вы. Вам нравится?"
 
 #. [message]: speaker=Son
 #: scenarios/los_s3.cfg:132
 msgid "It is not a bad place."
-msgstr ""
+msgstr "Неплохое место."
 
 #. [message]: speaker=Sultan
 #: scenarios/los_s3.cfg:136
@@ -897,11 +924,13 @@ msgid ""
 "Sha, great! Make yourselves comfortable. My commanding officer will visit "
 "you shortly. He will teach you how to fight in the desert."
 msgstr ""
+"Ша, великолепно! Располагайтесь, чувствуйте себя как дома. Мой офицер скоро "
+"посетит вас, он обучит вас искусству боя на песке. "
 
 #. [message]: speaker=Son
 #: scenarios/los_s3.cfg:140
 msgid "The trolls are grateful to the Sultan for everything."
-msgstr ""
+msgstr "Тролли благодарны Султану за всё."
 
 #. [message]
 #: scenarios/los_s3.cfg:171
@@ -909,6 +938,8 @@ msgid ""
 "So this is the home the stones directed us to? It is too light, too dry, and "
 "no mushrooms."
 msgstr ""
+"Так это и есть дом, к которому камни вели нас? Здесь слишком светло, слишком "
+"сухо, да и грибов нет."
 
 #. [message]: speaker=Son
 #: scenarios/los_s3.cfg:175
@@ -917,11 +948,14 @@ msgid ""
 "anymore. The Sultan fed and gave to drink us. He is our friend. Better to be "
 "with the Sultan than in the desert."
 msgstr ""
+"Выше нос! Султан не обманул - тролли теперь ни в чём не нуждаются. Султан "
+"накормил и напоил нас. Он - наш друг. Лучше быть с Султаном, чем одним в "
+"пустыне. "
 
 #. [message]
 #: scenarios/los_s3.cfg:180
 msgid "You are right, but what do the stones say?"
-msgstr ""
+msgstr "Ты прав, но что говорят камни?"
 
 #. [message]: speaker=Son
 #: scenarios/los_s3.cfg:191
@@ -929,6 +963,8 @@ msgid ""
 "These stones do not speak. They are dead. Hmm. The trolls need to get some "
 "live rocks in here."
 msgstr ""
+"Эти камни не говорят. Они мёртвые. Хм. Троллям нужно принести сюда парочку "
+"живых камней. "
 
 #. [message]: speaker=Captain_Omar
 #: scenarios/los_s3.cfg:206
