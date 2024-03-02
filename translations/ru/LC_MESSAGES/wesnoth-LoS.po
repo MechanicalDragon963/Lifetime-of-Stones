@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-02-27 22:55+0400\n"
-"PO-Revision-Date: 2024-02-29 12:13+0300\n"
+"PO-Revision-Date: 2024-03-02 14:21+0300\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru_RU\n"
@@ -365,7 +365,7 @@ msgid ""
 "Almighty showed Grump the way. Grump will lead everyone to a new better home "
 "where Shaitan will not find us. Follow Grump!"
 msgstr ""
-"Пусть Шайтан захватил наше царство, не отчаивайтесь, маленькие друзья. "
+"Пусть шайтан захватил наше царство, не отчаивайтесь, маленькие друзья. "
 "Всевышний указал Ворчуну путь. Ворчун приведёт всех в новый лучший дом, где "
 "Шайтан не найдёт нас. Все за Ворчуном!"
 
@@ -530,7 +530,7 @@ msgid ""
 msgstr ""
 "...Вот так Катящиеся Камни оказались в этой пещере. Тут было хорошо, но "
 "Ворчун чувствует, что время пришло. Катящиеся Камни должны найти новый дом, "
-"иначе Шайтан найдёт Катящихся Камней. Ворчун выведет вас."
+"иначе шайтан найдёт Катящихся Камней. Ворчун выведет вас."
 
 #. [message]: speaker=Son
 #: scenarios/los_s11.cfg:101
@@ -1274,7 +1274,7 @@ msgstr ""
 #. [message]: speaker=Son
 #: scenarios/los_s5.cfg:191
 msgid "Who's Shaitan?."
-msgstr "Что за Шайтан?"
+msgstr "Что за шайтан?"
 
 #. [message]: speaker=Sultan
 #: scenarios/los_s5.cfg:195
@@ -1292,7 +1292,7 @@ msgid ""
 "trolls alive. Because of him, the Rolling Stones are always looking for a "
 "new home."
 msgstr ""
-"Похоже, Ворчун уже знает Шайтана. Он живёт в Дарн-Туруме. Он плюётся огнём и "
+"Похоже, Ворчун уже знает шайтана. Он живёт в Дарн-Туруме. Он плюётся огнём и "
 "пожирает троллей заживо. Это из-за него Катящиеся Камни постоянно ищут новый "
 "дом. "
 
@@ -1302,7 +1302,7 @@ msgid ""
 "Sha! Then you are fortunate to have come to me, for in my realm the Shaitan "
 "is fought like nowhere else."
 msgstr ""
-"Ша! В таком случае вам повезло найти меня, ибо в моём царстве с Шайтаном "
+"Ша! В таком случае вам повезло найти меня, ибо в моём царстве с шайтаном "
 "борются, как нигде ещё."
 
 #. [message]: speaker=Son
@@ -1311,7 +1311,7 @@ msgid ""
 "But his jinn were already appearing in the Sultan's realm. What if the "
 "Shaitan himself comes here? If he finds the trolls?"
 msgstr ""
-"Но его джинны уже появлялись в царстве Султана. Что, если сам Шайтан явится "
+"Но его джинны уже появлялись в царстве Султана. Что, если сам шайтан явится "
 "сюда? Если он найдёт троллей?"
 
 #. [message]: speaker=Sultan
@@ -1323,7 +1323,7 @@ msgid ""
 "realm in the middle of a wasteland."
 msgstr ""
 "Если вы примете истинную веру, вам нечего страшиться. Всевышний не только "
-"направляет павших в рай, но и защищает живых от козней Шайтана. Лишь "
+"направляет павших в рай, но и защищает живых от козней шайтана. Лишь "
 "благодаря Нему я смог построить цветущий рай посреди пустоши."
 
 #. [message]: speaker=Son
@@ -1391,7 +1391,7 @@ msgid ""
 "fallen under the influence of Shaitan. We will bring them back to the right "
 "path."
 msgstr ""
-"Ша! Так и есть, мой друг. Но те, чья вера слаба, попали под влияние Шайтана. "
+"Ша! Так и есть, мой друг. Но те, чья вера слаба, попали под влияние шайтана. "
 "Мы лишь возвращаем их на путь истинный. "
 
 #. [message]: speaker=Son
