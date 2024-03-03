@@ -3,16 +3,16 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-03-04 00:10+0400\n"
-"PO-Revision-Date: 2024-03-04 00:10+0400\n"
+"PO-Revision-Date: 2024-03-04 00:26+0300\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru_RU\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
-"X-Generator: Poedit 2.3\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.4.2\n"
 
 #. [achievement_group]
 #. [campaign]: id=Lifetime_of_Stones
@@ -203,6 +203,10 @@ msgid ""
 "before caves, the trolls lived in Durn-Turum. This is troll's true native "
 "land."
 msgstr ""
+"Вы бы знали, что отец рассказал Ворчуну сегодня! Оказывается, Знойные Пещеры "
+"- совсем не родина племени Катящихся Камней. Отец привёл сюда троллей с "
+"холмов. А до холмов, тролли жили в горах. А до гор, тролли жили в пещерах. А "
+"до пещер, тролли жили в Дарн-Туруме. Вот настоящая родина троллей. "
 
 #. [part]
 #: scenarios/los_s1.cfg:23
@@ -211,6 +215,9 @@ msgid ""
 "terrible monster, the False Stone, which spewed fire and ate big trolls "
 "alive."
 msgstr ""
+"В Дарн-Туруме было хорошо, пока не появились уродливые гномы. Они разбудили "
+"ужасное чудовище, Лжекамня, что плевался огнём и пожирал больших троллей "
+"заживо. "
 
 #. [part]
 #: scenarios/los_s1.cfg:26
@@ -220,6 +227,10 @@ msgid ""
 "who it was) sacrificed himself so that the trolls escaped. The Great Stone "
 "saved Grump's great-great-grandfather."
 msgstr ""
+"Подлые эльфы предложили троллям помощь, но на самом деле, они послали "
+"троллей на смерть, прямиком в пасть Лжекамня. Тогда Великий Камень (Ворчун "
+"забыл, кто это) пожертвовал собой, чтобы тролли спаслись. Великий Камень "
+"спас пра-пра-прадеда Ворчуна."
 
 #. [part]
 #: scenarios/los_s1.cfg:29
@@ -229,11 +240,15 @@ msgid ""
 "long. Each new leader must lead the trolls to a new habitat. That is how "
 "Grump's ancestors led the tribe from distant Durn-Turum to the Heat Caves."
 msgstr ""
+"Пра-пра-прадед основал племя Катящихся Камней. Чтобы спастись от уродливых "
+"гномов и подлых эльфов, Катящиеся Камни нигде не задерживаются надолго. "
+"Каждый новый вождь должен отвести троллей на новое место. Вот так предки "
+"Ворчуна и привели племя из далёкого Дарн-Турум в Знойные Пещеры. "
 
 #. [part]
 #: scenarios/los_s1.cfg:32
 msgid "Father says it is time for the Rolling Stones to roll again."
-msgstr ""
+msgstr "Отец говорит, Катящимся Камням пора катиться вновь."
 
 #. [side]
 #: scenarios/los_s1.cfg:81 scenarios/los_s1.cfg:95 scenarios/los_s10.cfg:82
@@ -389,6 +404,8 @@ msgid ""
 "The trolls found the Sultan lying in his chambers with his throat slit. The "
 "trolls were too late. "
 msgstr ""
+"Тролли нашли Султана валяющимся в своих палатах с перерезанным горлом. "
+"Тролли опоздали. "
 
 #. [part]
 #: scenarios/los_s10.cfg:23
@@ -397,6 +414,9 @@ msgid ""
 "him? How had the Almighty allowed this to happen? Grump also did not "
 "understand what to do now."
 msgstr ""
+"Ворчун не может взять в толк: Султан был таким правоверным, как шайтан "
+"добрался до него? Как Всевышний допустил это? Ещё Ворчун не может взять "
+"толк, что теперь делать. "
 
 #. [part]
 #: scenarios/los_s10.cfg:26
@@ -405,6 +425,9 @@ msgid ""
 "hesitant, but the other troll wives supported him. They said they had "
 "learned how to rule the kingdom from Wazir and would always give good advice."
 msgstr ""
+"Жена подсказала Ворчуну выход. Ворчун должен стать новым Султаном. Ворчун "
+"сомневался, но другие жёны троллей тоже поддержали его. Они говорили, что "
+"научились управлять царством у Вазира, и всегда готовы дать дельный совет. "
 
 #. [part]
 #: scenarios/los_s10.cfg:29
@@ -414,6 +437,9 @@ msgid ""
 "work. Only trolls are as hard as stone, so that they cannot succumb to "
 "shaitan's influence."
 msgstr ""
+"Ворчун колебался, ведь Вазир правил своими людьми плохо. В то же время "
+"Ворчун осознал, что только он может продолжить дело Султана. Только тролли "
+"тверды, как камень, и не поддаются влиянию шайтана. "
 
 #. [part]
 #: scenarios/los_s10.cfg:32
@@ -422,6 +448,9 @@ msgid ""
 "him gladly. Indeed, the Almighty unites all creatures. Oh, Grump spoke like "
 "a Sultan..."
 msgstr ""
+"Так Ворчун стал новым Султаном. К его удивлению, люди приняли его радушно. "
+"Воистину, Всевышний объединяет всех созданий. Ой, Ворчун заговорил как "
+"Султан..."
 
 #. [part]
 #: scenarios/los_s10.cfg:35
@@ -431,6 +460,11 @@ msgid ""
 "had almost found the trolls. Every year more and more of his henchmen "
 "attacked Grump's realm. Every year more misfortunes happened."
 msgstr ""
+"Ворчун даже не догадывался, как сложно было Султану управлять царством. "
+"Хорошо, что у Султана был Ворчун. Но у Ворчуна никого не было. Ворчун "
+"чувствовал, что шайтан почти нашёл троллей. С каждым годом всё больше и "
+"больше его приспешников нападали на царство Ворчуна. С каждым годом "
+"случалось всё больше несчастий. "
 
 #. [part]
 #: scenarios/los_s10.cfg:38
@@ -438,6 +472,8 @@ msgid ""
 "When Grump sensed that shaitan was getting very close, he made the only "
 "right decision."
 msgstr ""
+"Когда Ворчун почувствовал, что шайтан уже очень близко, он принял "
+"единственное правильное решение. "
 
 #. [side]
 #: scenarios/los_s10.cfg:93 scenarios/los_s2.cfg:61 scenarios/los_s3.cfg:55
@@ -1001,6 +1037,8 @@ msgstr "Новый Дом"
 msgid ""
 "Grump never imagined that the stones would lead the trolls to Sultan Abdul."
 msgstr ""
+"Ворчун и представить себе не мог, что камни приведут троллей к этому Султану "
+"Абдулу."
 
 #. [part]
 #: scenarios/los_s3.cfg:23
@@ -1011,6 +1049,10 @@ msgid ""
 "crawlers in his home cave. Sultan kept shouting unclear phrases, but he "
 "seemed to enjoy it."
 msgstr ""
+"Он очень любопытный. Всю дорогу спрашивал Ворчуна про троллей. Как тролли "
+"живут, что делают. Султан особенно интересовался, как тролли дерутся. Ворчун "
+"с гордостью рассказал Султану, как крушил десятки ползучек в родной пещере. "
+"Султан всё отвечал непонятными фразами, но похоже, ему это понравилось. "
 
 #. [part]
 #: scenarios/los_s3.cfg:26
@@ -1019,11 +1061,13 @@ msgid ""
 "meat and ice-cold water in the palace. The trolls had never eaten so good in "
 "their lives."
 msgstr ""
+"Главное, что Султан добрый и честный. Он накормил троллей мясом и напоил "
+"ледяной водой в своём дворце. За всю жизнь тролли никогда не ели так вкусно. "
 
 #. [part]
 #: scenarios/los_s3.cfg:29
 msgid "After the feast, the Sultan took the trolls to their new home."
-msgstr ""
+msgstr "После пиршества, Султан повёл троллей в их новый дом. "
 
 #. [side]
 #: scenarios/los_s3.cfg:44 scenarios/los_s5.cfg:45 scenarios/los_s7.cfg:38
@@ -1150,6 +1194,10 @@ msgid ""
 "them. If those jinns are as mean and evil, it is dangerous for the Sultan to "
 "go alone. The trolls must help the Sultan."
 msgstr ""
+"Когда тролли научились драться в пустыне, Султан Абдул позвал их в поход "
+"против джиннов. Тролли уже сражались с одним из них. Если новые джинны такие "
+"же злые и коварные, как тот, то Султану опасно идти одному. Тролли должны "
+"помочь Султану. "
 
 #. [side]
 #: scenarios/los_s4.cfg:53 scenarios/los_s4.cfg:71 scenarios/los_s6.cfg:67
@@ -1503,6 +1551,10 @@ msgid ""
 "from shaitan. And most importantly, now the fallen trolls will be happy in "
 "heaven forever."
 msgstr ""
+"Ворчун узрел истину. Теперь троллям не нужны камни, чтобы чувствовать "
+"благодать. Теперь тролли чувствуют её всегда, в своей груди. Всевышний "
+"защитит троллей от шайтана. И главное, теперь павшие тролли будут счастливы "
+"в раю до конца времён. "
 
 #. [part]
 #: scenarios/los_s6.cfg:25
@@ -1510,6 +1562,8 @@ msgid ""
 "Soon the Sultan called the trolls to a new campaign. Shaitan's minions "
 "threaten the Sultan's realm again."
 msgstr ""
+"Вскоре Султан позвал троллей в новый поход. Приспешники шайтана вновь "
+"вторглись в царство Султана. "
 
 #. [side]: type=Dune Blademaster, id=Sultan_Enemy
 #. [side]: type=Orcish Nightblade, id=Orc_Enemy
@@ -1739,6 +1793,8 @@ msgid ""
 "The trolls had no idea what to do with the human women until the women gave "
 "them a hint."
 msgstr ""
+"Тролли не понимали, что делать с человеческими женщинами, пока те сами не "
+"подсказали им. "
 
 #. [part]
 #: scenarios/los_s8.cfg:28
@@ -1748,6 +1804,10 @@ msgid ""
 "women to continue their lineage. The kind Sultan has indeed given the trolls "
 "everything they need."
 msgstr ""
+"Теперь у троллей есть семьи. Раньше Ворчун даже не думал об этом, но теперь "
+"он осознал, что без Султана у Катящихся Камней было недостаточно женщин, "
+"чтобы продолжить род. Добрый Султан действительно дал троллям всё "
+"необходимое. "
 
 #. [part]
 #: scenarios/los_s8.cfg:31
@@ -1755,6 +1815,8 @@ msgid ""
 "Wazir treated them badly. The trolls are not the same as Wazir. Each troll "
 "is kind to his wife."
 msgstr ""
+"Вазир обращался с жёнами плохо. Тролли совсем другие. Каждый тролль "
+"заботится о своей жене. "
 
 #. [part]
 #: scenarios/los_s8.cfg:34
@@ -1763,6 +1825,9 @@ msgid ""
 "the trolls to go on a new quest. Grump will fight carefully. Grump wants to "
 "get back to his wife soon."
 msgstr ""
+"Тролли провели слишком мало времени с новыми семьями. Султан призвал троллей "
+"в очередной поход. Теперь Ворчун будет драться осторожно. Ворчун хочет "
+"поскорее вернуться к жене. "
 
 #. [part]
 #: scenarios/los_s8.cfg:38
@@ -1771,6 +1836,9 @@ msgid ""
 "faraway sands. For many days the Sultan's army searched for their camps "
 "without success."
 msgstr ""
+"К несчастью для Ворчуна, поход выдался долгим. Новые неверные спрятались в "
+"далёких-предалеких песках. День за днём войско Султана безуспешно искало их "
+"логово. "
 
 #. [part]
 #: scenarios/los_s8.cfg:41
@@ -1782,6 +1850,11 @@ msgid ""
 "survivors and lead them out of the ambush. We reached a mountain oasis and "
 "took up defences."
 msgstr ""
+"Так продолжалось до тех пор, пока жарким утром неверные сами не показались "
+"из-за дюн и не накатились на войско Султана, как лавина. Разразилась "
+"жестокая битва. Многие люди и тролли погибли. Султана тяжело ранили. Когда "
+"судьба нашего войска повисла на волоске, Омар собрал выживших и вывел их из "
+"засады. Мы добрались до скалистого оазиса и заняли оборону. "
 
 #. [side]: type=Dune Cataphract, id=Nomad3
 #. [side]: type=Dune Marauder, id=Nomad2
@@ -2063,6 +2136,9 @@ msgid ""
 "souls of the dead brothers now went not to stone, but to heaven, where they "
 "are happy."
 msgstr ""
+"Пусть в этом походе погибло больше троллей, чем когда-либо, Ворчун счастлив. "
+"Тролли спасли Султана и вернулись ему старый долг. А души павших братьев "
+"теперь не в камне, а в раю, где они счастливы."
 
 #. [part]
 #: scenarios/los_s9.cfg:24
@@ -2072,6 +2148,9 @@ msgid ""
 "the trolls. All the humans sang songs and danced in honour of the trolls. "
 "The trolls felt joyful."
 msgstr ""
+"Когда Султан вернулся во дворец, он устроил невиданный пир для троллей. "
+"Гигантский стол протянулся через весь город. Все люди прославляли троллей. "
+"Все люди пели и танцевали в честь троллей. Троллям было так радостно. "
 
 #. [part]
 #: scenarios/los_s9.cfg:27
@@ -2080,6 +2159,8 @@ msgid ""
 "trolls' wives beautiful new clothes. But that's not the main thing. The main "
 "thing was that Grump had a son!"
 msgstr ""
+"После пира тролли вернулись к своим семьям. Султан подарил жёнам троллей "
+"красивые новые наряды. Но это не главное. Главное, что у Ворчуна родился сын!"
 
 #. [part]
 #: scenarios/los_s9.cfg:30
@@ -2088,6 +2169,9 @@ msgid ""
 "little puny for a troll, but that's okay. Grump will raise him to be a "
 "strong warrior, just as Zuug once raised Grump."
 msgstr ""
+"Ворчун стал отцом. Ворчун назвал своего сына Абдулом, в честь Султана. Абдул "
+"немного худоват для троллей, но это ничего. Ворчун вырастит из него могучего "
+"воина, прямо как Жууг когда-то вырастил Ворчуна. "
 
 #. [part]
 #: scenarios/los_s9.cfg:33
@@ -2095,6 +2179,8 @@ msgid ""
 "Upon learning of the birth of his son, the Sultan threw another feast among "
 "the palace servants. Truly, the Sultan is the kindest of humans."
 msgstr ""
+"Узнав о рождении сына, Султан устроил ещё одно празднество среди дворцовой "
+"прислуги. Воистину, Султан - добрейший из людей. "
 
 #. [part]
 #: scenarios/los_s9.cfg:36
@@ -2256,11 +2342,13 @@ msgid ""
 "Grump feels stronger than ever! Grump rules the primordial flame! Now the "
 "trolls will have an army of fire!"
 msgstr ""
+"Ворчун чувствует себя сильным, как никогда прежде! Ворчун повелевает "
+"первородным огнём! Теперь у троллей будет целая армия из огня!"
 
 #. [message]: speaker=narrator
 #: utils/characters.cfg:184
 msgid "Now you can recruit the Fire Guardians!"
-msgstr ""
+msgstr "Теперь вы можете вербовать Огнестражей!"
 
 #. [advancement]: id=hero_or_shaman
 #: utils/scenario_events.cfg:21
