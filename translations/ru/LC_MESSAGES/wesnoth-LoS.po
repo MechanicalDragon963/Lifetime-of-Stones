@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-03-03 22:59+0400\n"
-"PO-Revision-Date: 2024-03-03 23:00+0400\n"
+"PO-Revision-Date: 2024-03-03 23:05+0400\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru_RU\n"
@@ -360,11 +360,6 @@ msgstr ""
 
 #. [message]: speaker=Son
 #: scenarios/los_s10.cfg:481
-#, fuzzy
-#| msgid ""
-#| "Though Shaitan has captured our realm, do not despair, little friends. "
-#| "The Almighty showed Grump the way. Grump will lead everyone to a new "
-#| "better home where Shaitan will not find us. Follow Grump!"
 msgid ""
 "Though shaitan has captured our realm, do not despair, little friends. The "
 "Almighty showed Grump the way. Grump will lead everyone to a new better home "
@@ -424,7 +419,7 @@ msgid ""
 "Indeed, the ways of the Almighty are inscrutable, for these mountains are "
 "known only for impassable rubble and terrible monsters. "
 msgstr ""
-"Воистину, пути Всевышнего неисповедимо, ибо эти горы славятся лишь "
+"Воистину, пути Всевышнего неисповедимы, ибо эти горы славятся лишь "
 "непроходимыми завалами и ужасными чудовищами."
 
 #. [message]: speaker=Son
@@ -471,7 +466,7 @@ msgstr ""
 #. [message]: race=troll
 #: scenarios/los_s10.cfg:631
 msgid "Crawlers killed all the little friends..."
-msgstr "Ползучки переюили всех маленьких друзей..."
+msgstr "Ползучки перебили всех маленьких друзей..."
 
 #. [message]: speaker=Son
 #: scenarios/los_s10.cfg:635
@@ -528,11 +523,6 @@ msgstr ""
 
 #. [message]: speaker=Son
 #: scenarios/los_s11.cfg:74
-#, fuzzy
-#| msgid ""
-#| "...That's how the Rolling Stones arrived in this cave. It was good here, "
-#| "but Grump feels the time has come. The Rolling Stones must find a new "
-#| "home, lest Shaitan find the Rolling Stones. Grump will lead you out."
 msgid ""
 "...That's how the Rolling Stones arrived in this cave. It was good here, but "
 "Grump feels the time has come. The Rolling Stones must find a new home, lest "
@@ -1283,8 +1273,6 @@ msgstr ""
 
 #. [message]: speaker=Son
 #: scenarios/los_s5.cfg:191
-#, fuzzy
-#| msgid "Who's Shaitan?."
 msgid "Who's shaitan?"
 msgstr "Что за шайтан?"
 
@@ -1299,11 +1287,6 @@ msgstr ""
 
 #. [message]: speaker=Son
 #: scenarios/los_s5.cfg:199
-#, fuzzy
-#| msgid ""
-#| "Grump seems to know Shaitan. He lives in Durn-Turum. He spits fire and "
-#| "eats trolls alive. Because of him, the Rolling Stones are always looking "
-#| "for a new home."
 msgid ""
 "Grump seems to know shaitan. He lives in Durn-Turum. He spits fire and eats "
 "trolls alive. Because of him, the Rolling Stones are always looking for a "
@@ -1315,10 +1298,6 @@ msgstr ""
 
 #. [message]: speaker=Sultan
 #: scenarios/los_s5.cfg:203
-#, fuzzy
-#| msgid ""
-#| "Sha! Then you are fortunate to have come to me, for in my realm the "
-#| "Shaitan is fought like nowhere else."
 msgid ""
 "Sha! Then you are fortunate to have come to me, for in my realm the shaitan "
 "is fought like nowhere else."
@@ -1328,10 +1307,6 @@ msgstr ""
 
 #. [message]: speaker=Son
 #: scenarios/los_s5.cfg:207
-#, fuzzy
-#| msgid ""
-#| "But his jinn were already appearing in the Sultan's realm. What if the "
-#| "Shaitan himself comes here? If he finds the trolls?"
 msgid ""
 "But his jinn were already appearing in the Sultan's realm. What if the "
 "shaitan himself comes here? If he finds the trolls?"
@@ -1341,12 +1316,6 @@ msgstr ""
 
 #. [message]: speaker=Sultan
 #: scenarios/los_s5.cfg:211
-#, fuzzy
-#| msgid ""
-#| "If you accept the true faith, you have nothing to fear. The Almighty not "
-#| "only guides the fallen to heaven but also protects the living from the "
-#| "wiles of Shaitan. It is only by His will that I have established a "
-#| "flourishing realm in the middle of a wasteland."
 msgid ""
 "If you accept the true faith, you have nothing to fear. The Almighty not "
 "only guides the fallen to heaven but also protects the living from the wiles "
@@ -1417,18 +1386,13 @@ msgstr "Тролли думали, Султан правит всем народ
 
 #. [message]: speaker=Sultan
 #: scenarios/los_s6.cfg:234
-#, fuzzy
-#| msgid ""
-#| "Sha! That's right, my friend. But those in whom faith is weakened have "
-#| "fallen under the influence of Shaitan. We will bring them back to the "
-#| "right path."
 msgid ""
 "Sha! That's right, my friend. But those in whom faith is weakened have "
 "fallen under the influence of shaitan. We will bring them back to the right "
 "path."
 msgstr ""
 "Ша! Так и есть, мой друг. Но те, чья вера слаба, попали под влияние шайтана. "
-"Мы лишь возвращаем их на путь истинный. "
+"Мы лишь возвращаем их на путь истинный."
 
 #. [message]: speaker=Son
 #: scenarios/los_s6.cfg:238
@@ -1940,10 +1904,6 @@ msgstr ""
 
 #. [message]: speaker=Son
 #: scenarios/los_s9.cfg:250
-#, fuzzy
-#| msgid ""
-#| "How can you talk about your own father like that! Shaitan must have taken "
-#| "hold of you. Grump will beat Shaitan out of you with a club!"
 msgid ""
 "How can you talk about your own father like that! Shaitan must have taken "
 "hold of you. Grump will beat shaitan out of you with a club!"
@@ -1972,20 +1932,11 @@ msgstr ""
 
 #. [message]: speaker=Son
 #: scenarios/los_s9.cfg:290
-#, fuzzy
-#| msgid "How could you succumb to Shaitan, Jaffar?"
 msgid "How could you succumb to shaitan, Jaffar?"
 msgstr "Как ты мог поддаться шайтану, Джаффар?"
 
 #. [message]: speaker=Enemy
 #: scenarios/los_s9.cfg:294
-#, fuzzy
-#| msgid ""
-#| "What do you know about our faith, monster..... It is you who are the "
-#| "spawn of Shaitan. Even your existence is offensive, but father has gone "
-#| "further. He has allowed you to insult our home. Our faith. Our women! "
-#| "Father sinned too much for power, and the Almighty punished him by my "
-#| "hand."
 msgid ""
 "What do you know about our faith, monster..... It is you who are the spawn "
 "of shaitan. Even your existence is offensive, but father has gone further. "
@@ -2014,11 +1965,6 @@ msgstr ""
 
 #. [message]: speaker=Son
 #: scenarios/los_s9.cfg:310
-#, fuzzy
-#| msgid ""
-#| "Grump can't believe Shaitan has captured the Sultan's son. The trolls "
-#| "must flee to the Sultan's chambers. Grump hopes that Sultan is still "
-#| "alive!"
 msgid ""
 "Grump can't believe shaitan has captured the Sultan's son. The trolls must "
 "flee to the Sultan's chambers. Grump hopes that Sultan is still alive!"
