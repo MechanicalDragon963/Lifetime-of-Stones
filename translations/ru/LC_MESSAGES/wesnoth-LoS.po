@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-03-04 00:10+0400\n"
-"PO-Revision-Date: 2024-03-04 19:57+0400\n"
+"PO-Revision-Date: 2024-03-04 20:00+0400\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru_RU\n"
@@ -501,7 +501,7 @@ msgid ""
 msgstr ""
 "Пусть шайтан захватил наше царство, не отчаивайтесь, маленькие друзья. "
 "Всевышний указал Ворчуну путь. Ворчун приведёт всех в новый лучший дом, где "
-"Шайтан не найдёт нас. Все за Ворчуном!"
+"шайтан не найдёт нас. Все за Ворчуном!"
 
 #. [message]
 #: scenarios/los_s10.cfg:485
@@ -696,7 +696,7 @@ msgid ""
 "Do not despair. Father said the trolls should be solid as a rock, remember? "
 "The stones guided the trolls here. Grump sure, the sand will run out soon."
 msgstr ""
-"Не отчаивайся. Отец велел троллям быть твёрдыми, как сказала, помнишь? Камни "
+"Не отчаивайся. Отец велел троллям быть твёрдыми, как скала, помнишь? Камни "
 "направили троллей сюда. Ворчун уверен, песок скоро кончится."
 
 #. [objective]: condition=win
