@@ -3,16 +3,16 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-03-04 00:10+0400\n"
-"PO-Revision-Date: 2024-03-04 00:26+0300\n"
+"PO-Revision-Date: 2024-03-04 19:58+0400\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru_RU\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
-"X-Generator: Poedit 3.4.2\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 2.3\n"
 
 #. [achievement_group]
 #. [campaign]: id=Lifetime_of_Stones
@@ -501,7 +501,7 @@ msgid ""
 msgstr ""
 "Пусть шайтан захватил наше царство, не отчаивайтесь, маленькие друзья. "
 "Всевышний указал Ворчуну путь. Ворчун приведёт всех в новый лучший дом, где "
-"Шайтан не найдёт нас. Все за Ворчуном!"
+"шайтан не найдёт нас. Все за Ворчуном!"
 
 #. [message]
 #: scenarios/los_s10.cfg:485
@@ -696,7 +696,7 @@ msgid ""
 "Do not despair. Father said the trolls should be solid as a rock, remember? "
 "The stones guided the trolls here. Grump sure, the sand will run out soon."
 msgstr ""
-"Не отчаивайся. Отец велел троллям быть твёрдыми, как сказала, помнишь? Камни "
+"Не отчаивайся. Отец велел троллям быть твёрдыми, как скала, помнишь? Камни "
 "направили троллей сюда. Ворчун уверен, песок скоро кончится."
 
 #. [objective]: condition=win
