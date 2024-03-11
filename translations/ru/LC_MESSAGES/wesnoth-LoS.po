@@ -3,16 +3,16 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-03-12 03:06+0400\n"
-"PO-Revision-Date: 2024-03-12 03:06+0400\n"
+"PO-Revision-Date: 2024-03-12 02:14+0300\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru_RU\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
-"X-Generator: Poedit 2.3\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.4.2\n"
 
 #. [achievement_group]
 #. [campaign]: id=Lifetime_of_Stones
@@ -127,6 +127,7 @@ msgstr "Катящиеся Камни"
 msgid ""
 "Completed the scenario <i>The Rolling Stones</i> on Nightmare difficulty."
 msgstr ""
+"Пройдите сценарий <i>Катящиеся Камни </i>на Кошмарном уровне сложности."
 
 #. [scenario]: id=los_s2
 #. [sub_achievement]: id=LoS_Finish_S2
@@ -136,11 +137,9 @@ msgstr "Царство Песка"
 
 #. [sub_achievement]: id=LoS_Finish_S2
 #: achievements.cfg:23
-#, fuzzy
-#| msgid "Get the fiery power in <i>The Realm of Sand</i>."
 msgid ""
 "Completed the scenario <i>The Realm of Sand</i> on Nightmare difficulty."
-msgstr "Заполучите огненную силу в <i>Царстве Песка</i>."
+msgstr "Пройдите сценарий <i> Царство Песка </i>на Кошмарном уровне сложности."
 
 #. [scenario]: id=los_s4
 #. [sub_achievement]: id=LoS_Finish_S4
@@ -152,20 +151,17 @@ msgstr "Коварные Желания"
 #: achievements.cfg:30
 msgid "Completed the scenario <i>Deceitful Wishes</i> on Nightmare difficulty."
 msgstr ""
+"Пройдите сценарий <i>Коварные Желания </i>на Кошмарном уровне сложности."
 
 #. [sub_achievement]: id=LoS_Finish_S6
 #: achievements.cfg:36
-#, fuzzy
-#| msgid "Infidels"
 msgid "Infindels"
 msgstr "Неверные"
 
 #. [sub_achievement]: id=LoS_Finish_S6
 #: achievements.cfg:37
-#, fuzzy
-#| msgid "Finish the campaign on Nightmare difficulty level."
 msgid "Completed the scenario <i>Infidels</i> on Nightmare difficulty."
-msgstr "Пройдите кампанию на Кошмарном уровне сложности."
+msgstr "Пройдите сценарий <i>Неверные</i>на Кошмарном уровне сложности."
 
 #. [scenario]: id=los_s8
 #. [sub_achievement]: id=LoS_Finish_S8
@@ -177,7 +173,7 @@ msgstr "Оазис Крови"
 #: achievements.cfg:44
 msgid ""
 "Completed the scenario <i>The Oasis of Blood</i> on Nightmare difficulty."
-msgstr ""
+msgstr "Пройдите сценарий <i>Оазис Крови </i>на Кошмарном уровне сложности."
 
 #. [scenario]: id=los_s9
 #. [sub_achievement]: id=LoS_Finish_S9
@@ -188,7 +184,7 @@ msgstr "Внезапное Зло"
 #. [sub_achievement]: id=LoS_Finish_S9
 #: achievements.cfg:51
 msgid "Completed the scenario <i>A Sudden Evil</i> on Nightmare difficulty."
-msgstr ""
+msgstr "Пройдите сценарий <i> Внезапное Зло </i>на Кошмарном уровне сложности."
 
 #. [scenario]: id=los_s10
 #. [sub_achievement]: id=LoS_Finish_S10
@@ -200,6 +196,7 @@ msgstr "Великое Путешествие"
 #: achievements.cfg:58
 msgid "Completed the scenario <i>The Great Trek</i> on Nightmare difficulty."
 msgstr ""
+"Пройдите сценарий <i> Великое Путешествие </i>на Кошмарном уровне сложности."
 
 #. [achievement]: id=LoS_S1_Upgrades
 #: achievements.cfg:65
@@ -245,14 +242,12 @@ msgstr "Обратите тролля-шамана в аватар огня."
 #. [achievement]: id=LoS_Fireguard
 #: achievements.cfg:89
 msgid "The flames of the trolls shine brightly!"
-msgstr ""
+msgstr "Пламя троллей сияет ярко!"
 
 #. [achievement]: id=LoS_Fireguard
 #: achievements.cfg:90
-#, fuzzy
-#| msgid "Now you can recruit the Fire Guardians!"
 msgid "Recruit the Fire Guardian."
-msgstr "Теперь вы можете вербовать Огнестражей!"
+msgstr "Завербуйте Огнестража."
 
 #. [achievement]: id=LoS_S8_Kill
 #: achievements.cfg:95
@@ -878,24 +873,18 @@ msgstr ""
 
 #. [objective]: condition=win
 #: scenarios/los_s2.cfg:341 scenarios/los_s2.cfg:344
-#, fuzzy
-#| msgid "Defeat the Jinns"
 msgid "Defend against the jinn 3 turns"
-msgstr "Победите Джиннов"
+msgstr "Защищайтесь от джинна 3 хода"
 
 #. [objective]: condition=win
 #: scenarios/los_s2.cfg:347
-#, fuzzy
-#| msgid "Defeat the Jinns"
 msgid "Defend against the jinn 4 turns"
-msgstr "Победите Джиннов"
+msgstr "Защищайтесь от джинна 4 хода"
 
 #. [objective]: condition=win
 #: scenarios/los_s2.cfg:350
-#, fuzzy
-#| msgid "Defeat the Jinns"
 msgid "Defend against the jinn 5 turns"
-msgstr "Победите Джиннов"
+msgstr "Защищайтесь от джинна 5 хода"
 
 #. [note]
 #: scenarios/los_s2.cfg:361
@@ -1012,12 +1001,12 @@ msgstr ""
 #. [message]: speaker=Jinn
 #: scenarios/los_s2.cfg:574
 msgid "Wait, trolls, I can grant you any wish you want!"
-msgstr ""
+msgstr "Тролли, остановитесь! Я могу исполнить любое ваше желание!"
 
 #. [message]: speaker=Son
 #: scenarios/los_s2.cfg:578
 msgid "The trolls wish you dead!"
-msgstr ""
+msgstr "Тролли желают, чтобы ты сдох!"
 
 #. [message]
 #: scenarios/los_s2.cfg:604
@@ -1090,42 +1079,30 @@ msgstr ""
 
 #. [message]: speaker=Sultan
 #: scenarios/los_s2.cfg:687
-#, fuzzy
-#| msgid ""
-#| "Sha, the stars were right! Something bad is happening on this road. I'm "
-#| "destined for battle."
 msgid ""
 "Sha, the stars were right! Something bad is happening on this road. I was "
 "destined for battle."
 msgstr ""
-"Ша, звёзды были правы! Нечто плохое происходит на этой дороге. Мне суждена "
-"битва."
+"Ша, звёзды были правы! Нечто плохое происходит на этой дороге. Мне была "
+"суждена битва."
 
 #. [message]: speaker=Captain_Omar
 #: scenarios/los_s2.cfg:691
-#, fuzzy
-#| msgid ""
-#| "It seems one of the escaped jinns has gone on a rampage, O Great Sultan."
 msgid "The scouts saw one of the escaped jinn raging here, O Sultan."
-msgstr "Похоже, один из сбежавших джиннов разбушевался, о Великий Султан."
+msgstr "Похоже, один из сбежавших джиннов бушевал здесь, о Великий Султан."
 
 #. [message]: speaker=Sultan
 #: scenarios/los_s2.cfg:695
-#, fuzzy
-#| msgid "I see. Aren't my subjects in the trap of this shaitan?"
 msgid "I see. Aren't my subjects defeated this shaitan?"
-msgstr "Я вижу. Уж не мои ли подданные в ловушке этого шайтана?"
+msgstr "Я вижу. Уж не мои ли подданные сокрушили этого шайтана?"
 
 #. [message]: speaker=Captain_Omar
 #: scenarios/los_s2.cfg:700
-#, fuzzy
-#| msgid ""
-#| "Fortunately not, O Great Sultan. Some strange creatures are fighting him."
 msgid ""
 "Unfortunately not, O Great Sultan. Some strange creatures destroyed him."
 msgstr ""
-"К счастью - нет, о Великий Султан. Какие-то чужеземные создания сражаются с "
-"ним."
+"К сожалению - нет, о Великий Султан. Какие-то чужеземные создания сразили "
+"его."
 
 #. [message]: speaker=Sultan
 #: scenarios/los_s2.cfg:704
@@ -1133,15 +1110,11 @@ msgid ""
 "In that case, I want to meet the strangers who defeated one of my worst "
 "enemies."
 msgstr ""
+"В таком случае, я хочу познакомиться с чужеземцами, что сокрушили одного из "
+"злейших врагов моих. "
 
 #. [message]: speaker=Sultan
 #: scenarios/los_s2.cfg:720
-#, fuzzy
-#| msgid ""
-#| "I am Sultan Abdul, lord of this desert. Everything you see belongs to me. "
-#| "If a friend enters my realm, he will have no need of anything. If an "
-#| "enemy comes here, he will find his death, just like this jinn. Are you "
-#| "trolls friends or enemies?"
 msgid ""
 "I am Sultan Abdul, lord of this desert. Everything you see belongs to me. If "
 "a friend enters my realm, he will have no need of anything. If an enemy "
@@ -1149,8 +1122,8 @@ msgid ""
 msgstr ""
 "Я - Султан Абдул, владыка этой пустыни. Всё, что вы видите вокруг, "
 "принадлежит мне. Если друг войдёт в моё царство, он не будет испытывать "
-"нужды ни в чём; если же враг явится сюда, он встретит свою смерть, прямо как "
-"этот джинн. А вы, тролли, друзья или враги?"
+"нужды ни в чём; если же враг явится сюда, он встретит свою смерть. А вы, "
+"тролли, друзья или враги?"
 
 #. [message]: speaker=Jinn
 #: scenarios/los_s2.cfg:753
@@ -1163,26 +1136,22 @@ msgstr ""
 
 #. [message]: speaker=unit
 #: scenarios/los_s2.cfg:769
-#, fuzzy
-#| msgid ""
-#| "There is no food or water in this abandoned house. Just a piece of cloth. "
-#| "Cover my head from the sun with it."
 msgid ""
 "There is no food or water in this abandoned house. Just a piece of cloth. I "
 "can cover my head from the sun with it and move faster."
 msgstr ""
-"В заброшенном доме нет ни еды, ни воды. Только кусок ткани. Прикрою им "
-"голову от солнца."
+"В заброшенном доме нет ни еды, ни воды. Только кусок ткани. Им можно "
+"прикрыться от солнца, чтобы двигаться быстрее."
 
 #. [message]: speaker=unit
 #: scenarios/los_s2.cfg:774 scenarios/los_s2.cfg:823
 msgid "Should I take this cloth?"
-msgstr ""
+msgstr "Стоит ли мне взять этот плащ?"
 
 #. [option]: speaker=unit
 #: scenarios/los_s2.cfg:776 scenarios/los_s2.cfg:825 scenarios/los_s2.cfg:916
 msgid "Yes, I’ll take it."
-msgstr ""
+msgstr "Да, я возьму его."
 
 #. [object]
 #: scenarios/los_s2.cfg:780 scenarios/los_s2.cfg:829
@@ -1199,7 +1168,7 @@ msgstr "Защищает от солнца и позволяет двигать�
 #. [option]: speaker=unit
 #: scenarios/los_s2.cfg:804 scenarios/los_s2.cfg:857 scenarios/los_s2.cfg:1023
 msgid "No, I think someone else should wear it."
-msgstr ""
+msgstr "Нет, пусть кто-нибудь другой возьмёт его. "
 
 #. [message]: speaker=unit
 #: scenarios/los_s2.cfg:882
@@ -1212,21 +1181,16 @@ msgstr ""
 
 #. [message]: speaker=second_unit
 #: scenarios/los_s2.cfg:895
-#, fuzzy
-#| msgid ""
-#| "This is a very tasty crawler. And it had some shiny thing on its nose. "
-#| "$second_unit.name gonna take the shiny thing for himself. Ouch, it burns."
 msgid ""
 "This is a very tasty crawler. And it had some shiny thing on its nose. Ouch, "
 "it burns!"
 msgstr ""
-"Очень вкусная ползучка. А ещё у неё какая-то блестяшка на носу. $second_unit."
-"name возьмёт блестяшку себе. Ай, жжётся."
+"Очень вкусная ползучка. А ещё у неё какая-то блестяшка на носу. Ай, жжётся."
 
 #. [message]: speaker=unit
 #: scenarios/los_s2.cfg:914
 msgid "Should I take this ring?"
-msgstr ""
+msgstr "Стоит ли мне забрать это кольцо?"
 
 #. [object]
 #: scenarios/los_s2.cfg:927
@@ -1942,7 +1906,7 @@ msgstr ""
 #. [message]: speaker=unit
 #: scenarios/los_s6.cfg:382
 msgid "Scorpius was hired by the the wrong sultan..."
-msgstr "Скорпиус был нанят не тем султаном..."
+msgstr "Скорпиус нанялся не к тому султану..."
 
 #. [message]: speaker=Son
 #: scenarios/los_s6.cfg:392
@@ -2233,10 +2197,6 @@ msgstr "Будет исполнено, О Великий Султан."
 
 #. [option]: speaker=Son
 #: scenarios/los_s8.cfg:511
-#, fuzzy
-#| msgid ""
-#| "It's too dangerous in the open sand for little friends. Let the humans "
-#| "protect the Sultan. The trolls will kill the leader of the infidels!"
 msgid ""
 "It's too dangerous in the open sand for little friends. Let the humans "
 "protect the Sultan. The trolls will kill a leader of the infidels!"
@@ -2246,22 +2206,18 @@ msgstr ""
 
 #. [objective]: condition=win
 #: scenarios/los_s8.cfg:518
-#, fuzzy
-#| msgid "Defeat one of the nomad leaders"
 msgid "Kill one of nomad leaders"
 msgstr "Сразите одного из вождей кочевников"
 
 #. [option]: speaker=Son
 #: scenarios/los_s8.cfg:556
 msgid "The trolls are strong. The trolls can kill all infidels leaders!"
-msgstr ""
+msgstr "Тролли сильны. Тролли могут прибить всех вождей неверных!"
 
 #. [objective]: condition=win
 #: scenarios/los_s8.cfg:563
-#, fuzzy
-#| msgid "Defeat one of the nomad leaders"
 msgid "Defeat all nomad leaders"
-msgstr "Сразите одного из вождей кочевников"
+msgstr "Сразите всех вождей кочевников"
 
 #. [message]: speaker=Captain_Omar
 #: scenarios/los_s8.cfg:586
@@ -2270,14 +2226,6 @@ msgstr "Что вы об этом думаете, О Султан?"
 
 #. [message]: speaker=Sultan
 #: scenarios/los_s8.cfg:590
-#, fuzzy
-#| msgid ""
-#| "Indeed, the Almighty put these words into the mouth of a troll. My wounds "
-#| "must have clouded my judgment. If we throw all our forces against the one "
-#| "nomad leader, we'll leave the rear unprotected. \n"
-#| "\n"
-#| "We'll do as Grump suggested. But don't leave the trolls without cover. I "
-#| "won't stand for all of them dying in these damn sands."
 msgid ""
 "Indeed, the Almighty put these words into the mouth of a troll. My wounds "
 "must have clouded my judgment. We'll do as Grump suggested. But don't leave "
@@ -2285,10 +2233,9 @@ msgid ""
 "sands."
 msgstr ""
 "Воистину, Всевышний вложил в уста тролля эти мудрые слова. Видно, раны "
-"затуманили мой рассудок. Если мы бросим все силы против одного вождя, мы "
-"оставим тыл уязвимым.\n"
-"Поступим, как Ворчун предложил. Но не оставляй троллей без прикрытия. Я не "
-"потерплю, если все они погибнут в этих проклятых песках."
+"затуманили мой рассудок. Поступим, как Ворчун предложил. Но не оставляй "
+"троллей без прикрытия. Я не потерплю, если все они погибнут в этих проклятых "
+"песках."
 
 #. [message]: speaker=unit
 #: scenarios/los_s8.cfg:639
@@ -2603,10 +2550,8 @@ msgstr "легендарный бросок"
 
 #. [advancement]: id=legendary_shaman
 #: utils/scenario_events.cfg:151
-#, fuzzy
-#| msgid "Become a legendary thrower"
 msgid "Become a legendary shaman"
-msgstr "Стать легендарным метателем"
+msgstr "Стать легендарным шаманом"
 
 #. [message]: speaker=Son
 #: utils/scenario_events.cfg:267
